@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".videos.activity.PlayVideoActivity">
+
+    <com.alexvasilkov.gestures.views.GestureFrameLayout
+        android:id="@+id/frame_item_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        app:gest_maxZoom="1.5">
+
+        <com.google.android.exoplayer2.ui.AspectRatioFrameLayout
+            android:id="@+id/exo_content_frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="visible">
+
+            <com.google.android.exoplayer2.ui.StyledPlayerView
+                android:id="@+id/player_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:keepScreenOn="true"
+                app:use_controller="false" />
+
+        </com.google.android.exoplayer2.ui.AspectRatioFrameLayout>
+
+    </com.alexvasilkov.gestures.views.GestureFrameLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_all_control_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.google.android.exoplayer2.ui.PlayerControlView
+                android:id="@+id/player_control_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:controller_layout_id="@layout/exo_player_control_view_customize"
+            app:show_timeout="0" />
+
+        <net.steamcrafted.materialiconlib.MaterialIconView
+            android:id="@+id/btnEnableAllControl"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="@dimen/_15sdp"
+            android:visibility="gone"
+            app:materialIcon="lock"
+            app:materialIconColor="@color/white"
+            app:materialIconSize="@dimen/_18sdp" />
+
+        <RelativeLayout
+            android:id="@+id/region_volume"
+            android:layout_width="@dimen/_200sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/_100sdp"
+            android:background="@drawable/black_transparent"
+            android:paddingLeft="@dimen/_10sdp"
+            android:visibility="gone">
+
+            <net.steamcrafted.materialiconlib.MaterialIconView
+                android:id="@+id/ic_volume"
+                android:layout_width="@dimen/_20sdp"
+                android:layout_height="@dimen/_20sdp"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                app:materialIcon="volume_medium"
+                app:materialIconColor="@color/white"
+                app:materialIconSize="@dimen/_18sdp" />
+
+            <SeekBar
+                android:id="@+id/seekBar_volume"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:layout_centerHorizontal="true"
+                android:layout_toEndOf="@id/ic_volume"
+                android:progressDrawable="@drawable/seekbar_progress"
+                android:thumb="@drawable/seekbar_thumb" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/region_brightness"
+            android:layout_width="@dimen/_200sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/_100sdp"
+            android:background="@drawable/black_transparent"
+            android:paddingLeft="@dimen/_10sdp"
+            android:visibility="gone">
+
+            <net.steamcrafted.materialiconlib.MaterialIconView
+                android:id="@+id/ic_brightness"
+                android:layout_width="@dimen/_20sdp"
+                android:layout_height="@dimen/_20sdp"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                app:materialIcon="brightness_7"
+                app:materialIconColor="@color/white"
+                app:materialIconSize="@dimen/_18sdp" />
+
+            <SeekBar
+                android:id="@+id/seekBar_brightness"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:layout_centerHorizontal="true"
+                android:layout_toEndOf="@id/ic_brightness"
+                android:progressDrawable="@drawable/seekbar_progress"
+                android:thumb="@drawable/seekbar_thumb" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <net.cachapa.expandablelayout.ExpandableLayout
+        android:id="@+id/expandable_recyclerView_layout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_250sdp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical"
+        app:el_duration="500"
+        app:el_expanded="false"
+        app:el_parallax="0.5">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/card_bg_color"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_gravity="center">
+
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:id="@+id/btn_CloseList"
+                    android:layout_width="@dimen/_25sdp"
+                    android:layout_height="@dimen/_25sdp"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginStart="@dimen/_20sdp"
+                    app:materialIcon="close"
+                    app:materialIconColor="@color/white"
+                    app:materialIconSize="@dimen/_18sdp" />
+
+                <TextView
+                    android:id="@+id/txtTotalVideo"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:layout_toStartOf="@id/btn_repeatMode"
+                    android:layout_toEndOf="@id/btn_CloseList"
+                    android:gravity="center"
+                    android:text="@string/now_playing"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_16sdp" />
+
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:id="@+id/btn_repeatMode"
+                    android:layout_width="@dimen/_25sdp"
+                    android:layout_height="@dimen/_25sdp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginEnd="@dimen/_20sdp"
+                    android:padding="@dimen/_3sdp"
+                    app:materialIcon="repeat"
+                    app:materialIconColor="@color/white"
+                    app:materialIconSize="@dimen/_18sdp" />
+            </RelativeLayout>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerView_playlist"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+
+    </net.cachapa.expandablelayout.ExpandableLayout>
+
+</RelativeLayout>

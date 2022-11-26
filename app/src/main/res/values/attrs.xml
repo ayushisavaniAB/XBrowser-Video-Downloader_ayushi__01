@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyCardView">
+        <attr name="option_text" format="string"/>
+        <attr name="option_icon" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="AppTheme">
+        <attr name="gradientColo1" format="color"/>
+        <attr name="gradientColo2" format="color"/>
+        <attr name="gradientColo3" format="color"/>
+        <attr name="textColor" format="color"/>
+        <attr name="appColor" format="color"/>
+        <attr name="hintColor" format="color"/>
+        <attr name="bgRect" format="color"/>
+        <attr name="appBackground" format="reference"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/itemLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/_1sdp"
+    android:orientation="horizontal"
+    android:padding="@dimen/_2sdp">
+
+    <FrameLayout
+        android:layout_width="@dimen/_120sdp"
+        android:layout_height="@dimen/_70sdp"
+        android:layout_margin="@dimen/_5sdp">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/videoImage"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.App.CornerSize10Percent" />
+
+        <TextView
+            android:id="@+id/videoDurationText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|right"
+            android:layout_margin="@dimen/_6sdp"
+            android:background="@drawable/black_transparent"
+            android:drawableLeft="@drawable/play_icon"
+            android:drawablePadding="@dimen/_5sdp"
+            android:fontFamily="@font/app_font"
+            android:gravity="center"
+            android:paddingHorizontal="@dimen/_5sdp"
+            android:paddingVertical="@dimen/_2sdp"
+            android:text=""
+            android:textColor="@color/white"
+            android:textSize="@dimen/_9sdp" />
+
+    </FrameLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/txtVideoTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_3sdp"
+            android:layout_marginTop="@dimen/_3sdp"
+            android:layout_marginEnd="@dimen/_3sdp"
+            android:layout_marginBottom="@dimen/_3sdp"
+            android:fontFamily="@font/app_font"
+            android:maxLines="2"
+            android:text=""
+            android:textColor="@color/white"
+            android:textSize="@dimen/_12sdp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtVideoPath"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txtVideoTitle"
+            android:layout_margin="@dimen/_3sdp"
+            android:fontFamily="@font/app_font"
+            android:text=""
+            android:textColor="@color/white"
+            android:textSize="@dimen/_10sdp" />
+
+    </RelativeLayout>
+
+    <net.steamcrafted.materialiconlib.MaterialIconView
+        android:id="@+id/removeVideoButton"
+        android:layout_width="@dimen/_30sdp"
+        android:layout_height="@dimen/_30sdp"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:padding="@dimen/_5sdp"
+        app:materialIcon="close"
+        app:materialIconColor="@color/white"
+        app:materialIconSize="@dimen/_18sdp" />
+
+</LinearLayout>

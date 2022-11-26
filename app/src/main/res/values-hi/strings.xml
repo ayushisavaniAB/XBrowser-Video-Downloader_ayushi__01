@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Browser Video Downloader</string>
+  <string name="home">घर</string>
+  <string name="progress">प्रगति</string>
+  <string name="save">खत्म</string>
+  <string name="hello_blank_fragment">नमस्ते खाली टुकड़ा</string>
+  <string name="hint_for_download">URL टाइप करें या खोजें</string>
+  <string name="bookmark_text">बुकमार्क</string>
+  <string name="add_bookmark_title_label">शीर्षक :</string>
+  <string name="add_bookmark_url_label">यूआरएल:</string>
+  <string name="add_playlist_hint">नाम डालें</string>
+  <string name="add_bookmark_url_hint">एक यूआरएल दर्ज करें</string>
+  <string name="ok_btn">ठीक</string>
+  <string name="yes_btn">हाँ</string>
+  <string name="no_btn">नहीं</string>
+  <string name="delete_title">मिटाना</string>
+  <string name="confirm_cancel">रद्द करना</string>
+  <string name="empty_edit_toast">नाम खाली नहीं हो सकता.</string>
+  <string name="empty_edit_url_toast">यूआरएल खाली नहीं हो सकता.</string>
+  <string name="delete_video_msg">क्या आप वाकई इस वीडियो को हटाना चाहते हैं?</string>
+  <string name="adFiltersLastUpdated">AdFiltersLasUpdated</string>
+  <string name="easyListLastModified">EasyListLastModified</string>
+  <string name="no_data_text">कोई डेटा नहीं</string>
+  <string name="autoVideoDetect">ऑटोवीडियोडिटेक्ट</string>
+  <string name="menu_new_tab">नया टैब</string>
+  <string name="menu_bookmark">बुकमार्क</string>
+  <string name="menu_history">इतिहास</string>
+  <string name="menu_download">डाउनलोड</string>
+  <string name="get_videos">वीडियो प्राप्त करें</string>
+<!--  <string-array name="videourl_filters"> -->
+<!--    <item>Mp4</item>  -->
+<!--    <item>वीडियो</item>  -->
+<!--    <item>Googleउपयोगकर्ता सामग्री</item>  -->
+<!--    <item>एम्बेड</item> -->
+<!--  </string-array>-->
+  <string name="adBlockON">एडब्लॉकऑन</string>
+  <string name="open_window_title">खिड़की खोल दो</string>
+  <string name="download_text">डाउनलोड</string>
+  <string name="download_not_found_text">डाउनलोड नहीं मिला</string>
+<!--  <string name="app_name_text">वीडियो डाउनलोडर</string>-->
+  <string name="video_deleted_toast">वीडियो सफलतापूर्वक हटाया गया.</string>
+  <string name="action_play_background">बैकग्राउंड ऑडियो</string>
+  <string name="action_share">शेयर करना</string>
+  <string name="menu_rename">नाम बदलें</string>
+  <string name="properties">गुण</string>
+  <string name="confirm_delete">मिटाना</string>
+  <string name="now_playing">अब खेल रहे हैं</string>
+  <string name="menu">मेन्यू</string>
+  <string name="action_info">जानकारी</string>
+  <string name="video_detail_title">वीडियो विवरण</string>
+  <string name="file_name_text">फ़ाइल का नाम :</string>
+  <string name="file_location_text">स्थान :</string>
+  <string name="format_text">प्रारूप :</string>
+  <string name="file_size_text">आकार :</string>
+  <string name="duration_text">अवधि :</string>
+  <string name="resolution_text">संकल्प :</string>
+  <string name="date_text">संशोधित तिथि :</string>
+  <string name="same_name_toast">नाम पहले से मौजूद है</string>
+  <string name="rename_toast">सफलतापूर्वक नाम बदलें</string>
+  <string name="confirm">क्या आप आश्वस्त है कि आपको डिलीट करना है</string>
+  <string name="not_exist_toast">फ़ाइल पथ मौजूद नहीं है।</string>
+  <string name="history_text">इतिहास</string>
+  <string name="rename_text">नाम बदलें</string>
+  <string name="delete">मिटाना</string>
+  <string name="txt_continue">जारी रखना</string>
+  <string name="last_text">वीडियो या फ़ोटो को दोबारा पोस्ट करने से पहले कृपया स्वामी से अनुमति प्राप्त करें;</string>
+  <string name="second_text">कोई भी अनधिकृत कार्रवाई (सामग्री को फिर से अपलोड करना या डाउनलोड करना) और/या बौद्धिक संपदा अधिकारों का उल्लंघन उपयोगकर्ता की एकमात्र जिम्मेदारी है।</string>
+  <string name="all_download">सभी एचडी वीडियो</string>
+  <string name="download">डाउनलाओड</string>
+  <string name="facebook">फेसबुक</string>
+  <string name="instagram">Instagram</string>
+  <string name="twitter">ट्विटर</string>
+  <string name="myspace">मेरी जगह</string>
+  <string name="tudidy">टुडिडी</string>
+  <string name="ted">टेड</string>
+  <string name="vk">वीके</string>
+  <string name="videoHub">वीडियोहब</string>
+  <string name="screen_one">आपकी इंटरनेट स्वतंत्रता और सुरक्षा को अगले स्तर तक ले जाने के लिए मुफ्त असीमित वीपीएन।</string>
+  <string name="downloader">वीडियो डाउनलोड</string>
+  <string name="videoPlayer">वीडियो प्लेयर</string>
+  <string name="screen_two">वाई-फ़ाई, 2जी, 3जी और 4जी सेल्युलर नेटवर्क पर वीडियो डाउनलोड करें</string>
+  <string name="language">भाषा परिवर्तन</string>
+  <string name="screen_three">पृष्ठभूमि में वीडियो, संगीत और चित्र डाउनलोड करें</string>
+  <string name="history">इतिहास दिखाएं</string>
+  <string name="screen_four">\"बदलें और अपने पसंदीदा खोज इंजन में अनुकूलित करें।</string>
+  <string name="collection">संग्रह लीजिए</string>
+  <string name="screen_five">अपनी पसंदीदा वेबसाइटों के लिए बुकमार्क जोड़ें बड़ी फ़ाइल डाउनलोड समर्थित है।</string>
+  <string name="storage_permission_required_toast">भंडारण पहुंच की अनुमति दें!</string>
+  <string name="privacy_policy_text">गोपनीयता नीति</string>
+  <string name="txt_policy1">यह गोपनीयता नीति इस बारे में पूरी जानकारी दें कि हमने किस प्रकार का विवरण एकत्र किया है, हम कहां उपयोग करते हैं, सुरक्षा कैसे प्रदान करें। \n हम पूरा विवरण प्रदान करते हैं कि जब उपयोगकर्ता कोई एप्लिकेशन इंस्टॉल करता है तो हम किस प्रकार का डेटा एकत्र करते हैं। \n कृपया कुछ समय निकालकर हमारे निजता के तरीकों से खुद को परिचित कराएं और अगर आपका कोई सवाल है तो हमें बताएं।</string>
+  <string name="txt_policy2">
+    <b>Personal Information</b>
+  </string>
+  <string name="txt_policy3">जब आप किसी एप्लिकेशन पर जाते हैं, डाउनलोड करते हैं या अपग्रेड करते हैं, तो हम आपकी व्यक्तिगत जानकारी जैसे आपका पहला नाम और अंतिम नाम, भौतिक पते, टेलीफोन नंबर, फैक्स नंबर और आपके डिवाइस में संग्रहीत जानकारी एकत्र या एकत्र नहीं करते हैं। हम आपकी व्यक्तिगत जानकारी एकत्र या संग्रहीत नहीं करेंगे और हम आपकी व्यक्तिगत जानकारी का उपयोग, हस्तांतरण या खुलासा नहीं करेंगे, जब आप एक उपयोगकर्ता खाता बनाते हैं, एक त्रुटि रिपोर्ट भेजते हैं या ऑनलाइन सर्वेक्षण और अन्य गतिविधियों में भाग लेते हैं। . निम्नलिखित परिस्थितियों में, हम आपकी व्यक्तिगत जानकारी को आपकी इच्छा या कानून द्वारा विनियमों के अनुसार प्रकट कर सकते हैं:</string>
+  <string name="txt_policy4">1. आपकी पूर्व अनुमति। \n 2. आपके निवास के देश के भीतर या बाहर लागू कानून द्वारा, कानूनी प्रक्रिया, मुकदमेबाजी अनुरोध। \n 3. सार्वजनिक और सरकारी अधिकारियों के अनुरोध पर। \n 4. हमारे कानूनी अधिकारों और हितों की रक्षा के लिए।</string>
+  <string name="txt_policy5">
+    <b>Permission in this Application:</b>
+  </string>
+  <string name="txt_policy6">
+    <b>INTERNET :</b>इस अनुमति का उपयोग यह जांचने के लिए किया जाता है कि इंटरनेट कनेक्शन चालू या बंद है।
+  </string>
+  <string name="txt_policy7">
+    <b>ACCESS_NETWORK_STATE :</b>नेटवर्क कनेक्शन देखने के लिए इस अनुमति का उपयोग सेटिंग्स और अधिसूचना टूलबार में किया जाता है।
+  </string>
+  <string name="txt_policy8">
+    <b>CHANGE_NETWORK_STATE :</b>इस अनुमति का उपयोग अनुप्रयोगों को नेटवर्क कनेक्टिविटी स्थिति बदलने की अनुमति देने के लिए किया जाता है।
+  </string>
+  <string name="txt_policy9">
+    <b>ACCESS_WIFI_STATE :</b>वाई-फाई से कनेक्ट और डिस्कनेक्ट करने के लिए इस अनुमति का उपयोग सेटिंग्स और अधिसूचना टूलबार में किया जाता है।
+  </string>
+  <string name="txt_policy10">
+    <b>CHANGE_WIFI_STATE :</b>इस अनुमति का उपयोग अनुप्रयोगों को वाई-फाई कनेक्टिविटी स्थिति को बदलने की अनुमति देता है।
+  </string>
+  <string name="txt_policy11">
+    <b>READ_EXTERNAL_STORAGE :</b>इस अनुमति का उपयोग एसडी कार्ड में उपलब्ध डेटा को पढ़ने या देखने के लिए किया जाता है।
+  </string>
+  <string name="txt_policy12">
+    <b>WRITE_EXTERNAL_STORAGE :</b>इस अनुमति का उपयोग एसडी कार्ड से छवि में संशोधन के लिए किया जाता है।
+  </string>
+  <string name="txt_policy13">
+    <b>RECORD_AUDIO :</b>इस अनुमति का उपयोग संगीत स्पेक्ट्रम प्रदर्शित करने के लिए किया जाता है।
+  </string>
+  <string name="txt_policy14">
+    <b>WAKE_LOCK :</b>यह अनुमति पावरमैनेजर वेकलॉक का उपयोग करने की अनुमति देती है ताकि प्रोसेसर को निष्क्रिय होने से रोका जा सके या स्क्रीन को धुंधला होने से बचाया जा सके।
+  </string>
+  <string name="txt_policy15">
+    <b>FOREGROUND_SERVICE :</b>इस अनुमति का उपयोग नियमित एप्लिकेशन को Service.startForeground का उपयोग करने की अनुमति देने के लिए किया जाता है।
+  </string>
+  <string name="txt_policy16">
+    <b>MODIFY_AUDIO_SETTINGS :</b>इस अनुमति का उपयोग किसी एप्लिकेशन को वैश्विक ऑडियो सेटिंग्स को संशोधित करने की अनुमति देने के लिए किया जाता है।
+  </string>
+  <string name="txt_policy17">
+    <b>SYSTEM_ALERT_WINDOW :</b>इस अनुमति का उपयोग किसी ऐप को WindowManager.LayoutParams.TYPE_APPLICATION_OVERLAY प्रकार का उपयोग करके विंडो बनाने की अनुमति देने के लिए किया जाता है, जो अन्य सभी ऐप्स के ऊपर दिखाया जाता है।
+  </string>
+  <string name="txt_policy18">
+    <b>VIBRATE :</b>इस अनुमति का उपयोग वाइब्रेटर तक पहुंच के लिए किया जाता है।
+  </string>
+  <string name="txt_policy19">
+    <b>WRITE_SETTINGS :</b>इस अनुमति का उपयोग किसी एप्लिकेशन को सिस्टम सेटिंग्स को पढ़ने या लिखने की अनुमति देने के लिए किया जाता है।
+  </string>
+  <string name="txt_policy20">
+    <b>MEDIA_CONTENT_CONTROL :</b>इस अनुमति का उपयोग किसी एप्लिकेशन को यह जानने की अनुमति देने के लिए किया जाता है कि कौन सी सामग्री चल रही है और इसके प्लेबैक को नियंत्रित करती है।
+  </string>
+  <string name="txt_policy21">
+    <b>PROTECTION YOUR PERSONAL INFORMATION</b>
+  </string>
+  <string name="txt_policy22">हम आपकी व्यक्तिगत जानकारी को नुकसान, चोरी और दुरुपयोग के साथ-साथ अनधिकृत पहुंच, प्रकटीकरण, परिवर्तन और विनाश से बचाने के लिए - प्रशासनिक, तकनीकी और भौतिक उपायों सहित - सावधानी बरतते हैं। \n जब आप कुछ उत्पादों, सेवाओं का उपयोग करते हैं, या अपनी टिप्पणी पोस्ट करते हैं, तो आपके द्वारा साझा की जाने वाली व्यक्तिगत जानकारी अन्य उपयोगकर्ताओं के लिए दृश्यमान होती है और उनके द्वारा पढ़ी, एकत्र या उपयोग की जा सकती है। \n आप इन मामलों में सबमिट करने के लिए चुनी गई व्यक्तिगत जानकारी के लिए ज़िम्मेदार हैं। \n कृपया इन सुविधाओं का उपयोग करते समय सावधानी बरतें। \n यह सुनिश्चित करने के लिए कि आपकी व्यक्तिगत जानकारी सुरक्षित है; हम अपने गोपनीयता और सुरक्षा दिशानिर्देशों को सभी सदस्यों तक पहुंचाते हैं और टीम के भीतर गोपनीयता सुरक्षा उपायों को सख्ती से लागू करते हैं।</string>
+  <string name="txt_policy23">
+    <b>Third Parties Sites</b>
+  </string>
+  <string name="txt_policy24">हम अपने अनुप्रयोगों में विज्ञापनों के लिए Google Admob SDK का उपयोग करते हैं। \n याद रखें, प्रोग्रामिंग में त्रुटियां हो सकती हैं, और कभी-कभी प्रोग्रामिंग त्रुटियां अवांछित दुष्प्रभाव पैदा कर सकती हैं। अन्य कंपनियों के विज्ञापन ले जाएं।</string>
+  <string name="txt_policy25">
+    <b>Children</b>
+  </string>
+  <string name="txt_policy26">हम बच्चों से व्यक्तिगत जानकारी एकत्र, उपयोग या प्रकट नहीं करते हैं। \n यदि आप 13 वर्ष से कम उम्र के हैं, तो आप हमारी वेबसाइट का उपयोग तब कर सकते हैं जब आप माता-पिता या अभिभावक के साथ हों। \n हम बच्चों पर ध्यान केंद्रित नहीं करते हैं।</string>
+  <string name="txt_policy27">
+    <b>Update Privacy Policy</b>
+  </string>
+  <string name="txt_policy28">हमारी गोपनीयता नीति समय-समय पर बदल सकती है, हम इस पृष्ठ पर कोई भी गोपनीयता नीति परिवर्तन पोस्ट करेंगे, इसलिए कृपया समय-समय पर इसकी समीक्षा करें।</string>
+  <string name="txt_policy29">
+    <b>Contacting Us</b>
+  </string>
+  <string name="txt_policy30">यदि हमारी गोपनीयता नीति या डेटा प्रोसेसिंग के बारे में आपके कोई प्रश्न या चिंताएं हैं, तो कृपया डेवलपर ईमेल पर हमसे संपर्क करें।</string>
+  <string name="tiktok">टिक टॉक</string>
+  <string name="daily">दैनिक गति</string>
+  <string name="videoPlayer1">वीडियो प्लेयर</string>
+  <string name="add_playlist_text">प्लेलिस्ट में जोड़ें</string>
+  <string name="action_play_popup">पॉपअप चलाएं</string>
+  <string name="add_favorite_text">पसंदीदा जोड़ें</string>
+  <string name="remove_from_playlist_text">प्लेलिस्ट से हटाएं</string>
+  <string name="remove_favourite_text">पसंदीदा हटाएं</string>
+  <string name="video_remove_favorite_toast">वीडियो पसंदीदा में निकालें।</string>
+  <string name="video_add_favorite_toast">वीडियो पसंदीदा में जोड़ा गया।</string>
+  <string name="new_playlist_text">नई प्लेलिस्ट</string>
+  <string name="video_added_toast">वीडियो प्लेलिस्ट में जोड़ा गया</string>
+  <string name="add_playlist_title">नई प्लेलिस्ट बनाएं</string>
+  <string name="create_btn">सृजन करना</string>
+  <string name="video_not_found_text">वीडियो नहीं मिला</string>
+  <string name="search_title">वीडियो खोजें</string>
+  <string name="downloader1">वीडियो डाउनलोडर</string>
+  <string name="privacy">गोपनीयता नीति</string>
+  <string name="share">शेयर करना</string>
+  <string name="back">पीछे</string>
+  <string name="next">अगला</string>
+  <string name="folder">फ़ोल्डर</string>
+  <string name="setting">समायोजन</string>
+  <string name="browser">ब्राउज़र वीडियो डाउनलोडर</string>
+  <string name="welcome_main_text">सुरक्षित ब्राउज़र लाभ</string>
+  <string name="browser_text">एक्सब्राउज़र डाउनलोडर</string>
+  <string name="clear">ब्राउज़र इतिहास साफ़ करें</string>
+  <string name="history1">इतिहास</string>
+  <string name="about">के बारे में</string>
+  <string name="downloads">डाउनलोड</string>
+  <string name="browsers">ब्राउज़र</string>
+  <string name="location">स्थान डाउनलोड करें</string>
+  <string name="rate">भाव</string>
+  <string name="connecting">सर्वर से कनेक्ट हो रहा है..</string>
+  <string name="no_history">कोई इतिहास नहीं</string>
+  <string name="how_to_download">कैसे डाउनलोड करते है</string>
+  <string name="skip">छोड़ें</string>
+  <string name="got_it">समझ गया</string>
+  <string name="screen_1_content">मुफ़्त असीमित वीपीएन \n आपके इंटरनेट \n स्वतंत्रता और सुरक्षा \n को अगले स्तर पर ले जाने के लिए।</string>
+  <string name="start">शुरू</string>
+  <string name="choose">चुनना</string>
+  <string name="your_language">आपकी भाषा</string>
+  <string name="apply">आवेदन करना</string>
+  <string name="all_language">सभी भाषा</string>
+  <string name="ads_preference">विज्ञापन वरीयता</string>
+  <string name="screen_3_content_1">आपका विज्ञापन वरीयता पृष्ठ आपको यह भी देखने देता है कि हम डेटा का उपयोग उन विज्ञापनों को दिखाने के लिए कैसे कर रहे हैं जो हमें लगता है कि आपके लिए सबसे दिलचस्प होंगे और आपको यह समायोजित करने देता है कि इस डेटा का उपयोग आपको विज्ञापन दिखाने के लिए कैसे किया जा सकता है। विज्ञापन सेटिंग के अंतर्गत, आप यह कर सकते हैं:</string>
+  <string name="screen_3_content_2">इस ब्राउज़र पर आपको विज्ञापन दिखाने के लिए डेटा का उपयोग कैसे किया जाता है, इसके बारे में सामान्य प्रश्न देखें</string>
+  <string name="screen_3_content_3">चुनें कि हम अन्य वेबसाइटों, ऐप्स या ऑफ़लाइन पर आपकी गतिविधि के आधार पर आपको वैयक्तिकृत विज्ञापन दिखा सकते हैं या नहीं।</string>
+  <string name="screen_3_content_4">उन विज्ञापनदाताओं को देखें, जो आपकी गतिविधि या जानकारी के आधार पर आपके द्वारा शामिल की गई कुछ ऑडियंस को अपने विज्ञापन दिखाने का विकल्प चुन सकते हैं और तय कर सकते हैं कि इन ऑडियंस का उपयोग आपको विज्ञापन दिखाने के लिए किया जा सकता है या नहीं।</string>
+  <string name="low">कम</string>
+  <string name="medium">मध्यम</string>
+  <string name="high">उच्च</string>
+  <string name="terms_and_condition">नियम व शर्तें</string>
+  <string name="screen_4_content_1">यह गोपनीयता नीति इस बारे में पूरी जानकारी दें कि हमने किस प्रकार का विवरण एकत्र किया है, हम कहां उपयोग करते हैं, सुरक्षा कैसे प्रदान करें। हम पूरा विवरण प्रदान करते हैं कि जब उपयोगकर्ता कोई एप्लिकेशन इंस्टॉल करता है तो हम किस प्रकार का डेटा एकत्र करते हैं। कृपया हमारी गोपनीयता प्रथाओं से खुद को परिचित करने के लिए कुछ समय दें और यदि आपके कोई प्रश्न हैं तो हमें बताएं।</string>
+  <string name="screen_4_content_2">जब आप किसी एप्लिकेशन पर जाते हैं, डाउनलोड करते हैं या अपग्रेड करते हैं, तो हम आपकी व्यक्तिगत जानकारी जैसे आपका पहला नाम और अंतिम नाम, भौतिक पते, टेलीफोन नंबर, फैक्स नंबर और आपके डिवाइस में संग्रहीत जानकारी एकत्र या एकत्र नहीं करते हैं। हम आपकी व्यक्तिगत जानकारी एकत्र या संग्रहीत नहीं करेंगे और हम आपकी व्यक्तिगत जानकारी का उपयोग, हस्तांतरण या खुलासा नहीं करेंगे, जब आप एक उपयोगकर्ता खाता बनाते हैं, एक त्रुटि रिपोर्ट भेजते हैं या ऑनलाइन सर्वेक्षण और अन्य गतिविधियों में भाग लेते हैं। . निम्नलिखित परिस्थितियों में, हम आपकी व्यक्तिगत जानकारी को आपकी इच्छा या कानून द्वारा विनियमों के अनुसार प्रकट कर सकते हैं:</string>
+  <string name="i_agree_with_terms_amp_condition">मैं नियम और शर्तों से सहमत हूं</string>
+  <string name="accept">स्वीकार करना</string>
+  <string name="privacy_policy">गोपनीयता नीति</string>
+  <string name="screen_5_content_1">यह गोपनीयता नीति इस बारे में पूरी जानकारी दें कि हमने किस प्रकार का विवरण एकत्र किया है, हम कहां उपयोग करते हैं, सुरक्षा कैसे प्रदान करें। हम पूरा विवरण प्रदान करते हैं कि जब उपयोगकर्ता कोई एप्लिकेशन इंस्टॉल करता है तो हम किस प्रकार का डेटा एकत्र करते हैं। कृपया हमारी गोपनीयता प्रथाओं से खुद को परिचित करने के लिए कुछ समय दें और यदि आपके कोई प्रश्न हैं तो हमें बताएं।</string>
+  <string name="personal_information">व्यक्तिगत जानकारी</string>
+  <string name="screen_5_content_2">जब आप किसी एप्लिकेशन पर जाते हैं, डाउनलोड करते हैं या अपग्रेड करते हैं, तो हम आपकी व्यक्तिगत जानकारी जैसे आपका पहला नाम और अंतिम नाम, भौतिक पते, टेलीफोन नंबर, फैक्स नंबर और आपके डिवाइस में संग्रहीत जानकारी एकत्र या एकत्र नहीं करते हैं। हम आपकी व्यक्तिगत जानकारी एकत्र या संग्रहीत नहीं करेंगे और हम आपकी व्यक्तिगत जानकारी का उपयोग, हस्तांतरण या खुलासा नहीं करेंगे, जब आप एक उपयोगकर्ता खाता बनाते हैं, एक त्रुटि रिपोर्ट भेजते हैं या ऑनलाइन सर्वेक्षण और अन्य गतिविधियों में भाग लेते हैं। . निम्नलिखित परिस्थितियों में, हम आपकी व्यक्तिगत जानकारी को आपकी इच्छा या कानून द्वारा विनियमों के अनुसार प्रकट कर सकते हैं:</string>
+  <string name="done">पूर्ण</string>
+  <string name="safe_browser_benefits">सुरक्षित ब्राउज़र लाभ</string>
+  <string name="maintain_anonymity_to_avoid_monitoring_amp_tracking">निगरानी और ट्रैकिंग से बचने के लिए गुमनामी बनाए रखें</string>
+  <string name="unlimited_speed_amp_traffic">असीमित गति और यातायात</string>
+  <string name="access_blocked_websites">अवरुद्ध वेबसाइटों तक पहुंचें</string>
+  <string name="access_web_at_high_speed">तेज़ गति से वेब एक्सेस करें</string>
+  <string name="hide_your_search_history">अपना खोज इतिहास छुपाएं</string>
+  <string name="bypass_geo_blocks_to_play_videos_amp_audios">वीडियो और ऑडियो चलाने के लिए जियो-ब्लॉक को बायपास करें</string>
+  <string name="keep_personal_data_safe_amp_secure">व्यक्तिगत डेटा को सुरक्षित और सुरक्षित रखें</string>
+  <string name="safe_browser">सुरक्षित ब्राउज़र</string>
+  <string name="normal_browser">सामान्य ब्राउज़र</string>
+  <string name="abc">एबीसी</string>
+  <string name="add_bookmark">बुकमार्क जोड़ें</string>
+  <string name="video_list">वीडियो सूची</string>
+  <string name="google">गूगल</string>
+  <string name="_1_08_mb_1_80_mb_60">1.08 एमबी / 1.80 एमबी 60%</string>
+  <string name="finished">खत्म</string>
+  <string name="_1">1</string>
+  <string name="disclaimer">अस्वीकरण</string>
+  <string name="add">जोड़ें</string>
+  <string name="all_history_delete">क्या आप वाकई इतिहास से यह सारा डेटा हटाना चाहते हैं?</string>
+  <string name="all_window_close">क्या आप वाकई इस सभी विंडो को बंद करना चाहते हैं?</string>
+  <string name="alert">चेतावनी</string>
+  <string name="close_this_window">क्या आप वाकई इस विंडो को बंद करना चाहते हैं?</string>
+  <string name="Delete_bookmark">बुकमार्क हटाएं</string>
+  <string name="this_bookmark">क्या आप इस बुकमार्क के प्रति आश्वस्त हैं?</string>
+  <string name="all_data_delete_from_bookmark">क्या आप वाकई बुकमार्क से यह सारा डेटा हटाना चाहते हैं?</string>
+  <string name="delete_bookmark">बुकमार्क हटाएं</string>
+  <string name="this_bookmark_delete">क्या आप वाकई इस बुकमार्क को हटाना चाहते हैं?</string>
+  <string name="close_all_window_2">क्या आप सभी विंडो को बंद करना सुनिश्चित कर रहे हैं?</string>
+  <string name="close_this_window_2">क्या आप वाकई इस विंडो को बंद करना चाहते हैं?</string>
+  <string name="all_data_delete_from_history">क्या आप वाकई इतिहास से यह सारा डेटा हटाना चाहते हैं?</string>
+  <string name="delete_this_data_from_history">क्या आप वाकई इस डेटा को इतिहास से हटाना चाहते हैं?</string>
+  <string name="delete_this_item">इस आइटम को सूची से हटाएं?</string>
+  <string name="this_bookmark_2">क्या आप इस बुकमार्क के प्रति आश्वस्त हैं?</string>
+  <string name="change_language">भाषा बदलो</string>
+  <string name="screen4_content_0_1">आपके निवास के देश के भीतर या बाहर लागू कानून द्वारा, कानूनी प्रक्रिया, मुकदमेबाजी अनुरोध।</string>
+  <string name="your_prior_permission">आपकी पूर्व अनुमति।</string>
+  <string name="screen_4_content_1_4">हम बच्चों से व्यक्तिगत जानकारी एकत्र, उपयोग या प्रकट नहीं करते हैं। यदि आप 13 वर्ष से कम उम्र के हैं, तो आप हमारी वेबसाइट का उपयोग तब कर सकते हैं जब आप माता-पिता या अभिभावक के साथ हों। हम बच्चों पर ध्यान केंद्रित नहीं करते हैं।</string>
+  <string name="screen_4_content_1_3">हम आपकी व्यक्तिगत जानकारी को नुकसान, चोरी और दुरुपयोग के साथ-साथ अनधिकृत पहुंच, प्रकटीकरण, परिवर्तन और विनाश से बचाने के लिए - प्रशासनिक, तकनीकी और भौतिक उपायों सहित - सावधानी बरतते हैं। जब आप कुछ उत्पादों, सेवाओं का उपयोग करते हैं, या अपनी टिप्पणी पोस्ट करते हैं, तो आपके द्वारा साझा की जाने वाली व्यक्तिगत जानकारी अन्य उपयोगकर्ताओं के लिए दृश्यमान होती है और उनके द्वारा पढ़ी, एकत्र या उपयोग की जा सकती है। आप इन मामलों में सबमिट करने के लिए चुनी गई व्यक्तिगत जानकारी के लिए ज़िम्मेदार हैं। कृपया इन सुविधाओं का उपयोग करते समय ध्यान रखें। यह सुनिश्चित करने के लिए कि आपकी व्यक्तिगत जानकारी सुरक्षित है; हम अपने गोपनीयता और सुरक्षा दिशानिर्देशों को सभी सदस्यों तक पहुंचाते हैं और टीम के भीतर गोपनीयता सुरक्षा उपायों को सख्ती से लागू करते हैं।</string>
+  <string name="by_requests_from_public_and_governmental_authorities">सार्वजनिक और सरकारी अधिकारियों के अनुरोधों से।</string>
+  <string name="to_protect_our_legal_rights_and_interests">हमारे कानूनी अधिकारों और हितों की रक्षा के लिए।</string>
+  <string name="screen_4_content_1_2">जब आप किसी एप्लिकेशन पर जाते हैं, डाउनलोड करते हैं या अपग्रेड करते हैं, तो हम आपकी व्यक्तिगत जानकारी जैसे आपका पहला नाम और अंतिम नाम, भौतिक पते, टेलीफोन नंबर, फैक्स नंबर और आपके डिवाइस में संग्रहीत जानकारी एकत्र या एकत्र नहीं करते हैं। हम आपकी व्यक्तिगत जानकारी एकत्र या संग्रहीत नहीं करेंगे और हम आपकी व्यक्तिगत जानकारी का उपयोग, हस्तांतरण या खुलासा नहीं करेंगे, जब आप एक उपयोगकर्ता खाता बनाते हैं, एक त्रुटि रिपोर्ट भेजते हैं या ऑनलाइन सर्वेक्षण और अन्य गतिविधियों में भाग लेते हैं। . निम्नलिखित परिस्थितियों में, हम आपकी व्यक्तिगत जानकारी को आपकी इच्छा या कानून द्वारा विनियमों के अनुसार प्रकट कर सकते हैं।</string>
+</resources>

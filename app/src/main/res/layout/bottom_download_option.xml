@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/backColor"
+    android:orientation="vertical"
+    android:padding="@dimen/_3sdp">
+
+    <LinearLayout
+        android:id="@+id/bgPlayMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/transparent"
+        android:orientation="horizontal"
+        android:padding="@dimen/_5sdp"
+        android:visibility="gone">
+
+        <net.steamcrafted.materialiconlib.MaterialIconView
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:padding="@dimen/_5sdp"
+            app:materialIcon="music_note"
+            app:materialIconColor="@color/colorWhite"
+            app:materialIconSize="@dimen/_18sdp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:fontFamily="@font/app_font"
+            android:text="@string/action_play_background"
+            android:textColor="@color/colorWhite"
+            android:textSize="@dimen/_12sdp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/shareMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/transparent"
+        android:orientation="horizontal"
+        android:padding="@dimen/_5sdp">
+
+        <net.steamcrafted.materialiconlib.MaterialIconView
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:padding="@dimen/_5sdp"
+            app:materialIcon="share"
+            app:materialIconColor="@color/colorWhite"
+            app:materialIconSize="@dimen/_18sdp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:fontFamily="@font/app_font"
+            android:text="@string/action_share"
+            android:textColor="@color/colorWhite"
+            android:textSize="@dimen/_12sdp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/renameMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/transparent"
+        android:orientation="horizontal"
+        android:padding="@dimen/_5sdp">
+
+        <net.steamcrafted.materialiconlib.MaterialIconView
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:padding="@dimen/_5sdp"
+            app:materialIcon="rename_box"
+            app:materialIconColor="@color/colorWhite"
+            app:materialIconSize="@dimen/_18sdp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:fontFamily="@font/app_font"
+            android:text="@string/menu_rename"
+            android:textColor="@color/colorWhite"
+            android:textSize="@dimen/_12sdp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/detailMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/transparent"
+        android:orientation="horizontal"
+        android:padding="@dimen/_5sdp">
+
+        <net.steamcrafted.materialiconlib.MaterialIconView
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:padding="@dimen/_5sdp"
+            app:materialIcon="information"
+            app:materialIconColor="@color/colorWhite"
+            app:materialIconSize="@dimen/_18sdp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:fontFamily="@font/app_font"
+            android:text="@string/properties"
+            android:textColor="@color/colorWhite"
+            android:textSize="@dimen/_12sdp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/deleteMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/transparent"
+        android:orientation="horizontal"
+        android:padding="@dimen/_5sdp">
+
+        <net.steamcrafted.materialiconlib.MaterialIconView
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:padding="@dimen/_5sdp"
+            app:materialIcon="delete"
+            app:materialIconColor="@color/colorWhite"
+            app:materialIconSize="@dimen/_18sdp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:fontFamily="@font/app_font"
+            android:text="@string/confirm_delete"
+            android:textColor="@color/colorWhite"
+            android:textSize="@dimen/_12sdp" />
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,245 @@
+<resources>
+    <string name="app_name">XBrowser Downloader</string>
+    <string name="home">Home</string>
+    <string name="progress">Progress</string>
+    <string name="save">Finished</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_for_download">Type URL or Search</string>
+    <string name="bookmark_text">Bookmark</string>
+
+<!--    <string name="bookmarks_root_folder">bookmarks</string>-->
+    <string name="add_bookmark_title_label">Title :</string>
+    <string name="add_bookmark_url_label">URL :</string>
+    <string name="add_playlist_hint">Enter a Name</string>
+    <string name="add_bookmark_url_hint">Enter a URL</string>
+    <string name="ok_btn">Ok</string>
+    <string name="yes_btn">Yes</string>
+    <string name="no_btn">No</string>
+    <string name="delete_title">Delete</string>
+    <string name="confirm_cancel">Cancel</string>
+    <string name="empty_edit_toast">Name can\'t be Empty.</string>
+    <string name="empty_edit_url_toast">Url can\'t be Empty.</string>
+    <string name="delete_video_msg">Are you sure to delete this video?</string>
+    <string name="adFiltersLastUpdated">adFiltersLasUpdated</string>
+
+    <string name="easyListLastModified">easyListLastModified</string>
+    <string name="no_data_text">No Data</string>
+    <string name="autoVideoDetect">autoVideoDetect</string>
+    <string name="menu_new_tab">New Tab</string>
+    <string name="menu_bookmark">Bookmarks</string>
+    <string name="menu_history">History</string>
+    <string name="menu_download">Downloads</string>
+    <string name="get_videos">Get Videos</string>
+    <string-array name="videourl_filters">
+        <item>mp4</item>
+        <item>video</item>
+        <item>googleusercontent</item>
+        <item>embed</item>
+    </string-array>
+    <string name="adBlockON">adBlockOn</string>
+    <string name="open_window_title">Open Window</string>
+    <string name="download_text">Download</string>
+    <string name="download_not_found_text">Download not Found</string>
+    <string name="app_name_text" translatable="false">Video Downloader</string>
+    <string name="video_deleted_toast">Video deleted Successfully.</string>
+    <string name="action_play_background">Background Audio</string>
+    <string name="action_share">Share</string>
+    <string name="menu_rename">Rename</string>
+    <string name="properties">Properties</string>
+    <string name="confirm_delete">Delete</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="menu">Menu</string>
+    <string name="action_info">Info</string>
+    <string name="video_detail_title">Video Details</string>
+    <string name="file_name_text">File Name : </string>
+    <string name="file_location_text">Location : </string>
+    <string name="format_text">Format : </string>
+    <string name="file_size_text">Size : </string>
+    <string name="duration_text">Duration : </string>
+    <string name="resolution_text">Resolution : </string>
+    <string name="date_text">Modified Date : </string>
+    <string name="same_name_toast">Name already Exist</string>
+    <string name="rename_toast">Rename Successfully</string>
+    <string name="confirm">Are you sure you want to delete </string>
+    <string name="not_exist_toast">File path not Exist.</string>
+    <string name="history_text">History</string>
+    <string name="rename_text">Rename</string>
+    <string name="delete">Delete</string>
+    <string name="txt_continue">Continue</string>
+    <string name="last_text">Please get the PERMISSION from the owner before you repost videos or photos;</string>
+    <string name="second_text">Any unauthorized actions(re-uploading or downloading of contents) and/or violations of intellectual property rights is the sole responsibility of the user.</string>
+    <string name="all_download">All Hd Video</string>
+    <string name="download">Downlaod</string>
+    <string name="facebook">Facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">Twitter</string>
+    <string name="myspace">My Space</string>
+    <string name="tudidy">Tudidy</string>
+    <string name="ted">TED</string>
+    <string name="vk">VK</string>
+    <string name="videoHub">Videohub</string>
+    <string name="screen_one">Free Unlimited VPN to take your Internet freedom and security to the next level.</string>
+    <string name="downloader">VIDEO DOWNLOAD</string>
+    <string name="videoPlayer">Video PLayer</string>
+    <string name="screen_two">Download videos over Wi-Fi, 2G,3G and 4G cellular networks</string>
+    <string name="language">Language Change</string>
+    <string name="screen_three">Download video, music and pictures in the background</string>
+    <string name="history">Show History</string>
+    <string name="screen_four">"Change and Customize to your favorite search engine.</string>
+    <string name="collection">Collect Collection</string>
+    <string name="screen_five">Add bookmarks for your favorite websites Large file download supported.</string>
+    <string name="storage_permission_required_toast">Allow permission for storage access!</string>
+
+    <string name="privacy_policy_text">Privacy Policy</string>
+    <!--    Privacy Policy-->
+    <string name="txt_policy1">This Privacy Policy Explain the complete detail about which kind of detail we gathered , Where we use , How to provide Security.
+        \nWe provide complete detail which kind of data we gather when user install any application.
+        \nPlease take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.</string>
+    <string name="txt_policy2"><b>Personal Information</b></string>
+    <string name="txt_policy3">We DO NOT collect or gather any personal information while you visit, download or upgrade any application, your personal information like your first name and last name, physical addresses, telephone numbers, fax numbers and information stored within your device. We will not collect or store your Personal Information and we will not use, transfer or disclose your Personal Information, excepting the personal information that you submit to us when you create a user account, send an error report or participate in online surveys and other activities. In the following circumstances, we may disclose your personal information according to your wish or regulations by law:</string>
+    <string name="txt_policy4">1. Your prior permission.
+\n2. By the applicable law within or outside your country of residence, legal process, litigation requests.
+        \n3. By requests from public and governmental authorities.
+\n4. To protect our legal rights and interests.</string>
+    <string name="txt_policy5"><b>Permission in this Application:</b></string>
+    <string name="txt_policy6"><b>INTERNET  : </b>This permission is used for check internet connection is on or off.</string>
+    <string name="txt_policy7"><b>ACCESS_NETWORK_STATE  : </b>This permission is used in settings and notification toolbar, in order to view network connections.</string>
+    <string name="txt_policy8"><b>CHANGE_NETWORK_STATE  : </b>This permission is used to allows applications to change network connectivity state.</string>
+    <string name="txt_policy9"><b>ACCESS_WIFI_STATE  : </b>This permission is used in settings and notification toolbar in order to connect and disconnect from Wi-Fi.</string>
+    <string name="txt_policy10"><b>CHANGE_WIFI_STATE  : </b>This permission is used allows applications to change Wi-Fi connectivity state.</string>
+    <string name="txt_policy11"><b>READ_EXTERNAL_STORAGE  : </b>This permission is used for to read or to see data which available in sd card.</string>
+    <string name="txt_policy12"><b>WRITE_EXTERNAL_STORAGE  : </b>This permission is used for modify in image from sd card.</string>
+    <string name="txt_policy13"><b>RECORD_AUDIO  : </b>This permission is used to display the music spectrum.</string>
+    <string name="txt_policy14"><b>WAKE_LOCK  : </b>This permission allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming.</string>
+    <string name="txt_policy15"><b>FOREGROUND_SERVICE  : </b>This permission is used to allow a regular application to use Service.startForeground.</string>
+    <string name="txt_policy16"><b>MODIFY_AUDIO_SETTINGS  : </b>This permission is used to allow an application to modify global audio settings.</string>
+    <string name="txt_policy17"><b>SYSTEM_ALERT_WINDOW  : </b>This permission is used to allow an app to create windows using the type WindowManager.LayoutParams.TYPE_APPLICATION_OVERLAY, shown on top of all other apps.</string>
+    <string name="txt_policy18"><b>VIBRATE  : </b>This permission is used for access to the vibrator.</string>
+    <string name="txt_policy19"><b>WRITE_SETTINGS  : </b>This permission is used to allows an application to read or write the system settings.</string>
+    <string name="txt_policy20"><b>MEDIA_CONTENT_CONTROL  : </b>This permission is used to allows an application to know what content is playing and control its playback.</string>
+    <string name="txt_policy21"><b>PROTECTION YOUR PERSONAL INFORMATION</b></string>
+    <string name="txt_policy22">We take precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction.
+\nWhen you use some products, services, or post your comments, the personal information you share is visible to other users and can be read, collected, or used by them.
+\nYou are responsible for the personal information you choose to submit in these instances.
+\nPlease take care when using these features.
+\nTo make sure your personal information is secure; we communicate our privacy and security guidelines to all members and strictly enforce privacy safeguards within the team.
+</string>
+    <string name="txt_policy23"><b>Third Parties Sites</b></string>
+    <string name="txt_policy24">We use Google Admob SDK for advertisements in our applications.
+\nRemember, there could be errors in the programming, and sometime programming errors may cause unwanted side effects.carry advertisements from other companies.</string>
+    <string name="txt_policy25"><b>Children</b></string>
+    <string name="txt_policy26">We do not collect, use or disclose personal information from children.
+\nIf you are under 13, you may use our website when you are with a parent or guardian.
+\nWe do not provide service focus on Children.</string>
+    <string name="txt_policy27"><b>Update Privacy Policy</b></string>
+    <string name="txt_policy28">Our Privacy Policy may change from time to time, we will post any privacy policy changes on this page, so please review it periodically.</string>
+    <string name="txt_policy29"><b>Contacting Us</b></string>
+    <string name="txt_policy30">If you have any questions or concerns about our Privacy Policy or data processing, please contact us at developer email.</string>
+    <string name="tiktok">Tik Tok</string>
+    <string name="daily">Daily Motion</string>
+    <string name="videoPlayer1">Video Player</string>
+    <string name="add_playlist_text">Add to Playlist</string>
+    <string name="action_play_popup">Play Popup</string>
+    <string name="add_favorite_text">Add Favorite</string>
+    <string name="remove_from_playlist_text">Remove from Playlist</string>
+    <string name="remove_favourite_text">Remove Favorite</string>
+    <string name="video_remove_favorite_toast">Video remove to favorite.</string>
+    <string name="video_add_favorite_toast">Video added to favorite.</string>
+    <string name="new_playlist_text">New Playlist</string>
+    <string name="video_added_toast">Video added to playlist</string>
+    <string name="add_playlist_title">Create New Playlist</string>
+    <string name="create_btn">Create</string>
+    <string name="video_not_found_text">Videos not Found</string>
+    <string name="search_title">Search Video</string>
+    <string name="downloader1">Video Downloader</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="share">Share</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="folder">Folder</string>
+    <string name="setting">Settings</string>
+    <string name="browser">Browser Video Downloader</string>
+    <string name="welcome_main_text">Safe Browser Benefits</string>
+    <string name="browser_text">XBrowser Downloader</string>
+    <string name="clear">Clear Browser History</string>
+    <string name="history1">History</string>
+    <string name="about">About</string>
+    <string name="downloads">Download</string>
+    <string name="browsers">Browser</string>
+    <string name="location">Download Location</string>
+    <string name="path" translatable="false">/storage/emulated/0/Download/Video Downloader</string>
+    <string name="rate">Rate</string>
+    <string name="connecting">Connecting To Server..</string>
+    <string name="no_history">No History</string>
+    <string name="how_to_download">How To Download</string>
+    <string name="skip">Skip</string>
+    <string name="got_it">Got It</string>
+    <string name="screen_1_content">Free Unlimited VPN\nto take your Internet\nfreedom and security\nto the next level.</string>
+    <string name="start">Start</string>
+    <string name="choose">Choose</string>
+    <string name="your_language">Your Language</string>
+    <string name="apply">Apply</string>
+    <string name="all_language">All Language</string>
+    <string name="ads_preference">Ads Preference</string>
+    <string name="screen_3_content_1">Your Ad preferences page also let you see how we\'re using data to show ads that we think will be most interesting for you and let you adjust how this data can be used to show you ads. Under Ad settings, you can:</string>
+    <string name="screen_3_content_2">View common questions about how data is used to show you ads on this broweser</string>
+    <string name="screen_3_content_3">Choose whether or not we can show you personalised ads based on your activity on other websites, apps or offline.</string>
+    <string name="screen_3_content_4">View advertisers that can choose to show their ads to certain audiences that you\'ve been included in based on your activity or information and decide whether these audiences can be used to show you ads.</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="terms_and_condition">Terms and condition</string>
+    <string name="screen_4_content_1">This Privacy Policy Explain the complete detail about which kind of detail we gathered , Where we use , How to provide Security. We provide complete detail which kind of data we gather when user install any application. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.</string>
+    <string name="screen_4_content_2">We DO NOT collect or gather any personal information while you visit, download or upgrade any application, your personal information like your first name and last name, physical addresses, telephone numbers, fax numbers and information stored within your device. We will not collect or store your Personal Information and we will not use, transfer or disclose your Personal Information, excepting the personal information that you submit to us when you create a user account, send an error report or participate in online surveys and other activities. In the following circumstances, we may disclose your personal information according to your wish or regulations by law:</string>
+    <string name="i_agree_with_terms_amp_condition"><![CDATA[I agree with Terms & Condition]]></string>
+    <string name="accept">Accept</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="screen_5_content_1">This Privacy Policy Explain the complete detail about which kind of detail we gathered , Where we use , How to provide Security. We provide complete detail which kind of data we gather when user install any application. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="screen_5_content_2">We DO NOT collect or gather any personal information while you visit, download or upgrade any application, your personal information like your first name and last name, physical addresses, telephone numbers, fax numbers and information stored within your device. We will not collect or store your Personal Information and we will not use, transfer or disclose your Personal Information, excepting the personal information that you submit to us when you create a user account, send an error report or participate in online surveys and other activities. In the following circumstances, we may disclose your personal information according to your wish or regulations by law:</string>
+    <string name="done">Done</string>
+    <string name="safe_browser_benefits">Safe Browser Benefits</string>
+    <string name="maintain_anonymity_to_avoid_monitoring_amp_tracking"><![CDATA[Maintain anonymity to avoid monitoring & tracking]]></string>
+    <string name="unlimited_speed_amp_traffic"><![CDATA[Unlimited speed & traffic]]></string>
+    <string name="access_blocked_websites">Access blocked websites</string>
+    <string name="access_web_at_high_speed">Access web at high speed</string>
+    <string name="hide_your_search_history">Hide your search history</string>
+    <string name="bypass_geo_blocks_to_play_videos_amp_audios"><![CDATA[Bypass Geo-blocks to play videos & audios]]></string>
+    <string name="keep_personal_data_safe_amp_secure"><![CDATA[Keep personal data safe & secure]]></string>
+    <string name="safe_browser">Safe Browser</string>
+    <string name="normal_browser">Normal Browser</string>
+    <string name="abc">abc</string>
+    <string name="add_bookmark">Add Bookmark</string>
+    <string name="video_list">Video List</string>
+    <string name="google">Google</string>
+    <string name="_1_08_mb_1_80_mb_60">1.08 MB /1.80 MB 60%</string>
+    <string name="finished">Finished</string>
+    <string name="_1">1</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="add">Add</string>
+    <string name="all_history_delete">Are you sure to delete this All data from history?</string>
+    <string name="all_window_close">Are you sure you want to close this All window?</string>
+    <string name="alert">Alert</string>
+    <string name="close_this_window">Are you sure you want to close this window?</string>
+    <string name="Delete_bookmark">Delete Bookmark</string>
+    <string name="this_bookmark">Are you sure to this Bookmark?</string>
+    <string name="all_data_delete_from_bookmark">Are you sure to delete this All data from Bookmark?</string>
+    <string name="delete_bookmark">Delete Bookmark</string>
+    <string name="this_bookmark_delete">Are you sure to delete this Bookmark?</string>
+    <string name="close_all_window_2">Are you sure to close All Window?</string>
+    <string name="close_this_window_2">Are you sure you want to close this window?</string>
+    <string name="all_data_delete_from_history">Are you sure to delete this All data from history?</string>
+    <string name="delete_this_data_from_history">Are you sure to delete this data from history?</string>
+    <string name="delete_this_item">Delete this item from the list?</string>
+    <string name="this_bookmark_2">Are you sure to this Bookmark?</string>
+    <string name="change_language">Change Language</string>
+    <string name="cancel">Cancel</string>
+    <string name="screen4_content_0_1">By the applicable law within or outside your country of residence, legal process, litigation requests.</string>
+    <string name="your_prior_permission">Your prior permission.</string>
+    <string name="by_requests_from_public_and_governmental_authorities">By requests from public and governmental authorities.</string>
+    <string name="to_protect_our_legal_rights_and_interests">To protect our legal rights and interests.</string>
+    <string name="screen_4_content_1_2">We DO NOT collect or gather any personal information while you visit, download or upgrade any application, your personal information like your first name and last name, physical addresses, telephone numbers, fax numbers and information stored within your device. We will not collect or store your Personal Information and we will not use, transfer or disclose your Personal Information, excepting the personal information that you submit to us when you create a user account, send an error report or participate in online surveys and other activities. In the following circumstances, we may disclose your personal information according to your wish or regulations by law.</string>
+    <string name="screen_4_content_1_3">We take precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction. When you use some products, services, or post your comments, the personal information you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to submit in these instances. Please take care when using these features. To make sure your personal information is secure; we communicate our privacy and security guidelines to all members and strictly enforce privacy safeguards within the team.</string>
+    <string name="screen_4_content_1_4">We do not collect, use or disclose personal information from children. If you are under 13, you may use our website when you are with a parent or guardian.We do not provide service focus on Children.</string>
+</resources>

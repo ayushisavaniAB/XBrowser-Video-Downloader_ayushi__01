@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Browser Video Downloader</string>
+  <string name="home">Rumah</string>
+  <string name="progress">Kemajuan</string>
+  <string name="save">Selesai</string>
+  <string name="hello_blank_fragment">Halo fragmen kosong</string>
+  <string name="hint_for_download">Ketik URL atau Cari</string>
+  <string name="bookmark_text">Penanda buku</string>
+  <string name="add_bookmark_title_label">Judul :</string>
+  <string name="add_bookmark_url_label">URL:</string>
+  <string name="add_playlist_hint">Masukkan Nama</string>
+  <string name="add_bookmark_url_hint">Masukkan URL</string>
+  <string name="ok_btn">Oke</string>
+  <string name="yes_btn">Ya</string>
+  <string name="no_btn">Tidak</string>
+  <string name="delete_title">Menghapus</string>
+  <string name="confirm_cancel">Membatalkan</string>
+  <string name="empty_edit_toast">Nama tidak boleh Kosong.</string>
+  <string name="empty_edit_url_toast">Url tidak boleh Kosong.</string>
+  <string name="delete_video_msg">Apakah Anda yakin akan menghapus video ini?</string>
+  <string name="adFiltersLastUpdated">AdFiltersLasUpdated</string>
+  <string name="easyListLastModified">EasyListLastModified</string>
+  <string name="no_data_text">Tidak ada data</string>
+  <string name="autoVideoDetect">Deteksi Video otomatis</string>
+  <string name="menu_new_tab">Tab baru</string>
+  <string name="menu_bookmark">Bookmark</string>
+  <string name="menu_history">Sejarah</string>
+  <string name="menu_download">Unduhan</string>
+  <string name="get_videos">Dapatkan Video</string>
+<!--  <string-array name="videourl_filters"> -->
+<!--    <item>Mp4</item>  -->
+<!--    <item>Video</item>  -->
+<!--    <item>Konten pengguna google</item>  -->
+<!--    <item>Menanamkan</item> -->
+<!--  </string-array>-->
+  <string name="adBlockON">AdBlockOn</string>
+  <string name="open_window_title">Buka jendela</string>
+  <string name="download_text">Unduh</string>
+  <string name="download_not_found_text">Unduh tidak Ditemukan</string>
+<!--  <string name="app_name_text">Pengunduh Video</string>-->
+  <string name="video_deleted_toast">Video berhasil dihapus.</string>
+  <string name="action_play_background">Audio Latar Belakang</string>
+  <string name="action_share">Membagikan</string>
+  <string name="menu_rename">Ganti nama</string>
+  <string name="properties">Properti</string>
+  <string name="confirm_delete">Menghapus</string>
+  <string name="now_playing">Sedang dimainkan</string>
+  <string name="menu">Menu</string>
+  <string name="action_info">Info</string>
+  <string name="video_detail_title">Detail Video</string>
+  <string name="file_name_text">Nama file :</string>
+  <string name="file_location_text">Lokasi:</string>
+  <string name="format_text">Format:</string>
+  <string name="file_size_text">Ukuran :</string>
+  <string name="duration_text">Durasi :</string>
+  <string name="resolution_text">Resolusi:</string>
+  <string name="date_text">Tanggal yang diubah :</string>
+  <string name="same_name_toast">Nama sudah ada</string>
+  <string name="rename_toast">Ganti Nama Berhasil</string>
+  <string name="confirm">Anda yakin ingin menghapus</string>
+  <string name="not_exist_toast">Jalur file tidak Ada.</string>
+  <string name="history_text">Sejarah</string>
+  <string name="rename_text">Ganti nama</string>
+  <string name="delete">Menghapus</string>
+  <string name="txt_continue">Melanjutkan</string>
+  <string name="last_text">Harap dapatkan IZIN dari pemilik sebelum Anda memposting ulang video atau foto;</string>
+  <string name="second_text">Setiap tindakan tidak sah (mengunggah ulang atau mengunduh konten) dan/atau pelanggaran hak kekayaan intelektual adalah tanggung jawab pengguna sepenuhnya.</string>
+  <string name="all_download">Semua Video Hd</string>
+  <string name="download">Unduh</string>
+  <string name="facebook">Facebook</string>
+  <string name="instagram">Instagram</string>
+  <string name="twitter">Twitter</string>
+  <string name="myspace">Ruangku</string>
+  <string name="tudidy">Tudidy</string>
+  <string name="ted">TED</string>
+  <string name="vk">VK</string>
+  <string name="videoHub">Videohub</string>
+  <string name="screen_one">VPN Tanpa Batas Gratis untuk membawa kebebasan dan keamanan Internet Anda ke tingkat berikutnya.</string>
+  <string name="downloader">UNDUH VIDEO</string>
+  <string name="videoPlayer">Pemutar video</string>
+  <string name="screen_two">Unduh video melalui jaringan seluler Wi-Fi, 2G, 3G, dan 4G</string>
+  <string name="language">Perubahan Bahasa</string>
+  <string name="screen_three">Unduh video, musik, dan gambar di latar belakang</string>
+  <string name="history">Tampilkan Sejarah</string>
+  <string name="screen_four">\"Ubah dan Sesuaikan ke mesin pencari favorit Anda.</string>
+  <string name="collection">Kumpulkan Koleksi</string>
+  <string name="screen_five">Tambahkan bookmark untuk situs web favorit Anda Unduh file besar didukung.</string>
+  <string name="storage_permission_required_toast">Izinkan izin untuk akses penyimpanan!</string>
+  <string name="privacy_policy_text">Kebijakan pribadi</string>
+  <string name="txt_policy1">Kebijakan Privasi ini Jelaskan detail lengkap tentang jenis detail yang kami kumpulkan, Di mana kami menggunakan, Bagaimana memberikan Keamanan. \n Kami memberikan detail lengkap jenis data apa yang kami kumpulkan saat pengguna menginstal aplikasi apa pun. \n Luangkan waktu sejenak untuk membiasakan diri Anda dengan praktik privasi kami dan beri tahu kami jika Anda memiliki pertanyaan.</string>
+  <string name="txt_policy2">
+    <b>Personal Information</b>
+  </string>
+  <string name="txt_policy3">Kami TIDAK mengumpulkan atau mengumpulkan informasi pribadi apa pun saat Anda mengunjungi, mengunduh, atau meningkatkan versi aplikasi apa pun, informasi pribadi Anda seperti nama depan dan nama belakang, alamat fisik, nomor telepon, nomor faks, dan informasi yang tersimpan di dalam perangkat Anda. Kami tidak akan mengumpulkan atau menyimpan Informasi Pribadi Anda dan kami tidak akan menggunakan, mentransfer atau mengungkapkan Informasi Pribadi Anda, kecuali informasi pribadi yang Anda kirimkan kepada kami saat Anda membuat akun pengguna, mengirim laporan kesalahan atau berpartisipasi dalam survei online dan aktivitas lainnya. . Dalam keadaan berikut, kami dapat mengungkapkan informasi pribadi Anda sesuai dengan keinginan atau peraturan hukum Anda:</string>
+  <string name="txt_policy4">1. Izin Anda sebelumnya. \n 2. Berdasarkan hukum yang berlaku di dalam atau di luar negara tempat tinggal Anda, proses hukum, permintaan litigasi. \n 3. Atas permintaan dari otoritas publik dan pemerintah. \n 4. Untuk melindungi hak dan kepentingan hukum kita.</string>
+  <string name="txt_policy5">
+    <b>Permission in this Application:</b>
+  </string>
+  <string name="txt_policy6">
+    <b>INTERNET :</b>Izin ini digunakan untuk memeriksa koneksi internet aktif atau nonaktif.
+  </string>
+  <string name="txt_policy7">
+    <b>ACCESS_NETWORK_STATE :</b>Izin ini digunakan dalam pengaturan dan bilah alat notifikasi, untuk melihat koneksi jaringan.
+  </string>
+  <string name="txt_policy8">
+    <b>CHANGE_NETWORK_STATE :</b>Izin ini digunakan untuk mengizinkan aplikasi mengubah status konektivitas jaringan.
+  </string>
+  <string name="txt_policy9">
+    <b>ACCESS_WIFI_STATE :</b>Izin ini digunakan dalam pengaturan dan bilah alat notifikasi untuk menghubungkan dan memutuskan sambungan dari Wi-Fi.
+  </string>
+  <string name="txt_policy10">
+    <b>CHANGE_WIFI_STATE :</b>Izin ini digunakan untuk memungkinkan aplikasi mengubah status konektivitas Wi-Fi.
+  </string>
+  <string name="txt_policy11">
+    <b>READ_EXTERNAL_STORAGE :</b>Izin ini digunakan untuk membaca atau melihat data yang tersedia di kartu sd.
+  </string>
+  <string name="txt_policy12">
+    <b>WRITE_EXTERNAL_STORAGE :</b>Izin ini digunakan untuk memodifikasi gambar dari kartu sd.
+  </string>
+  <string name="txt_policy13">
+    <b>RECORD_AUDIO :</b>Izin ini digunakan untuk menampilkan spektrum musik.
+  </string>
+  <string name="txt_policy14">
+    <b>WAKE_LOCK :</b>Izin ini memungkinkan penggunaan PowerManager WakeLocks untuk menjaga prosesor agar tidak tidur atau layar dari peredupan.
+  </string>
+  <string name="txt_policy15">
+    <b>FOREGROUND_SERVICE :</b>Izin ini digunakan untuk mengizinkan aplikasi biasa menggunakan Service.startForeground.
+  </string>
+  <string name="txt_policy16">
+    <b>MODIFY_AUDIO_SETTINGS :</b>Izin ini digunakan untuk mengizinkan aplikasi mengubah pengaturan audio global.
+  </string>
+  <string name="txt_policy17">
+    <b>SYSTEM_ALERT_WINDOW :</b>Izin ini digunakan untuk mengizinkan aplikasi membuat jendela menggunakan jenis WindowManager.LayoutParams.TYPE_APPLICATION_OVERLAY, ditampilkan di atas semua aplikasi lain.
+  </string>
+  <string name="txt_policy18">
+    <b>VIBRATE :</b>Izin ini digunakan untuk akses ke vibrator.
+  </string>
+  <string name="txt_policy19">
+    <b>WRITE_SETTINGS :</b>Izin ini digunakan untuk mengizinkan aplikasi membaca atau menulis pengaturan sistem.
+  </string>
+  <string name="txt_policy20">
+    <b>MEDIA_CONTENT_CONTROL :</b>Izin ini digunakan untuk memungkinkan aplikasi mengetahui konten apa yang sedang diputar dan mengontrol pemutarannya.
+  </string>
+  <string name="txt_policy21">
+    <b>PROTECTION YOUR PERSONAL INFORMATION</b>
+  </string>
+  <string name="txt_policy22">Kami mengambil tindakan pencegahan — termasuk tindakan administratif, teknis, dan fisik — untuk melindungi informasi pribadi Anda dari kehilangan, pencurian, dan penyalahgunaan, serta terhadap akses, pengungkapan, perubahan, dan penghancuran yang tidak sah. \n Saat Anda menggunakan beberapa produk, layanan, atau mengeposkan komentar, informasi pribadi yang Anda bagikan dapat dilihat oleh pengguna lain dan dapat dibaca, dikumpulkan, atau digunakan oleh mereka. \n Anda bertanggung jawab atas informasi pribadi yang Anda pilih untuk dikirimkan dalam kasus ini. \n Harap berhati-hati saat menggunakan fitur ini. \n Untuk memastikan informasi pribadi Anda aman; kami mengomunikasikan pedoman privasi dan keamanan kami kepada semua anggota dan secara ketat menegakkan perlindungan privasi di dalam tim.</string>
+  <string name="txt_policy23">
+    <b>Third Parties Sites</b>
+  </string>
+  <string name="txt_policy24">Kami menggunakan SDK Google Admob untuk iklan di aplikasi kami. \n Ingat, mungkin ada kesalahan dalam pemrograman, dan terkadang kesalahan pemrograman dapat menyebabkan efek samping yang tidak diinginkan. Bawalah iklan dari perusahaan lain.</string>
+  <string name="txt_policy25">
+    <b>Children</b>
+  </string>
+  <string name="txt_policy26">Kami tidak mengumpulkan, menggunakan, atau mengungkapkan informasi pribadi dari anak-anak. \n Jika Anda berusia di bawah 13 tahun, Anda dapat menggunakan situs web kami saat Anda bersama orang tua atau wali. \n Kami tidak memberikan fokus layanan pada Anak-anak.</string>
+  <string name="txt_policy27">
+    <b>Update Privacy Policy</b>
+  </string>
+  <string name="txt_policy28">Kebijakan Privasi kami dapat berubah dari waktu ke waktu, kami akan memposting setiap perubahan kebijakan privasi di halaman ini, jadi harap tinjau secara berkala.</string>
+  <string name="txt_policy29">
+    <b>Contacting Us</b>
+  </string>
+  <string name="txt_policy30">Jika Anda memiliki pertanyaan atau masalah tentang Kebijakan Privasi atau pemrosesan data kami, silakan hubungi kami di email pengembang.</string>
+  <string name="tiktok">TIK tok</string>
+  <string name="daily">Gerakan Harian</string>
+  <string name="videoPlayer1">Pemutar video</string>
+  <string name="add_playlist_text">Tambahkan ke Daftar Putar</string>
+  <string name="action_play_popup">Mainkan Popup</string>
+  <string name="add_favorite_text">Tambah favorit</string>
+  <string name="remove_from_playlist_text">Hapus dari Daftar Putar</string>
+  <string name="remove_favourite_text">Hapus Favorit</string>
+  <string name="video_remove_favorite_toast">Hapus video ke favorit.</string>
+  <string name="video_add_favorite_toast">Video ditambahkan ke favorit.</string>
+  <string name="new_playlist_text">Daftar Putar Baru</string>
+  <string name="video_added_toast">Video ditambahkan ke daftar putar</string>
+  <string name="add_playlist_title">Buat Daftar Putar Baru</string>
+  <string name="create_btn">Membuat</string>
+  <string name="video_not_found_text">Video tidak Ditemukan</string>
+  <string name="search_title">Cari Video</string>
+  <string name="downloader1">Pengunduh Video</string>
+  <string name="privacy">Kebijakan pribadi</string>
+  <string name="share">Membagikan</string>
+  <string name="back">Kembali</string>
+  <string name="next">Lanjut</string>
+  <string name="folder">Map</string>
+  <string name="setting">Pengaturan</string>
+  <string name="browser">Pengunduh Video Peramban</string>
+  <string name="welcome_main_text">Manfaat Peramban Aman</string>
+  <string name="browser_text">Pengunduh XBrowser</string>
+  <string name="clear">Hapus Riwayat Peramban</string>
+  <string name="history1">Sejarah</string>
+  <string name="about">Tentang</string>
+  <string name="downloads">Unduh</string>
+  <string name="browsers">Peramban</string>
+  <string name="location">Unduh Lokasi</string>
+  <string name="rate">Kecepatan</string>
+  <string name="connecting">Menghubungkan ke server..</string>
+  <string name="no_history">Tidak Ada Sejarah</string>
+  <string name="how_to_download">Bagaimana cara mengunduh</string>
+  <string name="skip">Melewati</string>
+  <string name="got_it">Mengerti</string>
+  <string name="screen_1_content">VPN Gratis Tanpa Batas \n untuk membawa Internet Anda \n kebebasan dan keamanan \n ke tingkat berikutnya.</string>
+  <string name="start">Awal</string>
+  <string name="choose">Memilih</string>
+  <string name="your_language">Bahasamu</string>
+  <string name="apply">Berlaku</string>
+  <string name="all_language">Semua Bahasa</string>
+  <string name="ads_preference">Preferensi Iklan</string>
+  <string name="screen_3_content_1">Laman Preferensi iklan Anda juga memungkinkan Anda melihat bagaimana kami menggunakan data untuk menampilkan iklan yang menurut kami paling menarik bagi Anda dan memungkinkan Anda menyesuaikan bagaimana data ini dapat digunakan untuk menampilkan iklan kepada Anda. Di bawah Setelan iklan, Anda dapat:</string>
+  <string name="screen_3_content_2">Lihat pertanyaan umum tentang bagaimana data digunakan untuk menampilkan iklan kepada Anda di browser ini</string>
+  <string name="screen_3_content_3">Pilih apakah kami dapat menampilkan iklan hasil personalisasi berdasarkan aktivitas Anda di situs web, aplikasi, atau offline lainnya atau tidak.</string>
+  <string name="screen_3_content_4">Lihat pengiklan yang dapat memilih untuk menampilkan iklan mereka kepada pemirsa tertentu yang telah Anda sertakan berdasarkan aktivitas atau informasi Anda dan putuskan apakah pemirsa tersebut dapat digunakan untuk menampilkan iklan kepada Anda.</string>
+  <string name="low">Rendah</string>
+  <string name="medium">Sedang</string>
+  <string name="high">Tinggi</string>
+  <string name="terms_and_condition">Syarat dan ketentuan</string>
+  <string name="screen_4_content_1">Kebijakan Privasi ini Jelaskan detail lengkap tentang jenis detail yang kami kumpulkan, Di mana kami menggunakan, Bagaimana memberikan Keamanan. Kami memberikan detail lengkap jenis data apa yang kami kumpulkan ketika pengguna menginstal aplikasi apa pun. Harap luangkan waktu sejenak untuk membiasakan diri Anda dengan praktik privasi kami dan beri tahu kami jika Anda memiliki pertanyaan.</string>
+  <string name="screen_4_content_2">Kami TIDAK mengumpulkan atau mengumpulkan informasi pribadi apa pun saat Anda mengunjungi, mengunduh, atau meningkatkan versi aplikasi apa pun, informasi pribadi Anda seperti nama depan dan nama belakang, alamat fisik, nomor telepon, nomor faks, dan informasi yang tersimpan di dalam perangkat Anda. Kami tidak akan mengumpulkan atau menyimpan Informasi Pribadi Anda dan kami tidak akan menggunakan, mentransfer atau mengungkapkan Informasi Pribadi Anda, kecuali informasi pribadi yang Anda kirimkan kepada kami saat Anda membuat akun pengguna, mengirim laporan kesalahan atau berpartisipasi dalam survei online dan aktivitas lainnya. . Dalam keadaan berikut, kami dapat mengungkapkan informasi pribadi Anda sesuai dengan keinginan atau peraturan hukum Anda:</string>
+  <string name="i_agree_with_terms_amp_condition">Saya setuju dengan Syarat &amp; Ketentuan</string>
+  <string name="accept">Menerima</string>
+  <string name="privacy_policy">Kebijakan pribadi</string>
+  <string name="screen_5_content_1">Kebijakan Privasi ini Jelaskan detail lengkap tentang jenis detail yang kami kumpulkan, Di mana kami menggunakan, Bagaimana memberikan Keamanan. Kami memberikan detail lengkap jenis data apa yang kami kumpulkan ketika pengguna menginstal aplikasi apa pun. Harap luangkan waktu sejenak untuk membiasakan diri Anda dengan praktik privasi kami dan beri tahu kami jika Anda memiliki pertanyaan.</string>
+  <string name="personal_information">Informasi pribadi</string>
+  <string name="screen_5_content_2">Kami TIDAK mengumpulkan atau mengumpulkan informasi pribadi apa pun saat Anda mengunjungi, mengunduh, atau meningkatkan versi aplikasi apa pun, informasi pribadi Anda seperti nama depan dan nama belakang, alamat fisik, nomor telepon, nomor faks, dan informasi yang tersimpan di dalam perangkat Anda. Kami tidak akan mengumpulkan atau menyimpan Informasi Pribadi Anda dan kami tidak akan menggunakan, mentransfer atau mengungkapkan Informasi Pribadi Anda, kecuali informasi pribadi yang Anda kirimkan kepada kami saat Anda membuat akun pengguna, mengirim laporan kesalahan atau berpartisipasi dalam survei online dan aktivitas lainnya. . Dalam keadaan berikut, kami dapat mengungkapkan informasi pribadi Anda sesuai dengan keinginan atau peraturan hukum Anda:</string>
+  <string name="done">Selesai</string>
+  <string name="safe_browser_benefits">Manfaat Peramban Aman</string>
+  <string name="maintain_anonymity_to_avoid_monitoring_amp_tracking">Pertahankan anonimitas untuk menghindari pemantauan &amp; pelacakan</string>
+  <string name="unlimited_speed_amp_traffic">Kecepatan &amp; lalu lintas tidak terbatas</string>
+  <string name="access_blocked_websites">Akses situs web yang diblokir</string>
+  <string name="access_web_at_high_speed">Akses web dengan kecepatan tinggi</string>
+  <string name="hide_your_search_history">Sembunyikan riwayat pencarian Anda</string>
+  <string name="bypass_geo_blocks_to_play_videos_amp_audios">Lewati Geo-blok untuk memutar video &amp; audio</string>
+  <string name="keep_personal_data_safe_amp_secure">Simpan data pribadi dengan aman &amp; aman</string>
+  <string name="safe_browser">Peramban Aman</string>
+  <string name="normal_browser">Peramban Biasa</string>
+  <string name="abc">Abc</string>
+  <string name="add_bookmark">Tambah bookmark</string>
+  <string name="video_list">Daftar Video</string>
+  <string name="google">Google</string>
+  <string name="_1_08_mb_1_80_mb_60">1,08 MB /1,80 MB 60%</string>
+  <string name="finished">Selesai</string>
+  <string name="_1">1</string>
+  <string name="disclaimer">Penafian</string>
+  <string name="add">Menambahkan</string>
+  <string name="all_history_delete">Apakah Anda yakin akan menghapus Semua data ini dari riwayat?</string>
+  <string name="all_window_close">Anda yakin ingin menutup Semua jendela ini?</string>
+  <string name="alert">Peringatan</string>
+  <string name="close_this_window">Anda yakin ingin menutup jendela ini?</string>
+  <string name="Delete_bookmark">Hapus Penanda</string>
+  <string name="this_bookmark">Apakah Anda yakin dengan Bookmark ini?</string>
+  <string name="all_data_delete_from_bookmark">Apakah Anda yakin akan menghapus Semua data ini dari Bookmark?</string>
+  <string name="delete_bookmark">Hapus Penanda</string>
+  <string name="this_bookmark_delete">Apakah Anda yakin akan menghapus Bookmark ini?</string>
+  <string name="close_all_window_2">Apakah Anda yakin untuk menutup Semua Jendela?</string>
+  <string name="close_this_window_2">Anda yakin ingin menutup jendela ini?</string>
+  <string name="all_data_delete_from_history">Apakah Anda yakin akan menghapus Semua data ini dari riwayat?</string>
+  <string name="delete_this_data_from_history">Apakah Anda yakin akan menghapus data ini dari riwayat?</string>
+  <string name="delete_this_item">Hapus item ini dari daftar?</string>
+  <string name="this_bookmark_2">Apakah Anda yakin dengan Bookmark ini?</string>
+  <string name="change_language">Ganti BAHASA</string>
+  <string name="screen_4_content_1_4">Kami tidak mengumpulkan, menggunakan, atau mengungkapkan informasi pribadi dari anak-anak. Jika Anda berusia di bawah 13 tahun, Anda dapat menggunakan situs web kami saat Anda bersama orang tua atau wali. Kami tidak memberikan fokus layanan pada Anak-anak.</string>
+  <string name="screen_4_content_1_3">Kami mengambil tindakan pencegahan — termasuk tindakan administratif, teknis, dan fisik — untuk melindungi informasi pribadi Anda dari kehilangan, pencurian, dan penyalahgunaan, serta terhadap akses, pengungkapan, perubahan, dan penghancuran yang tidak sah. Saat Anda menggunakan beberapa produk, layanan, atau memposting komentar Anda, informasi pribadi yang Anda bagikan dapat dilihat oleh pengguna lain dan dapat dibaca, dikumpulkan, atau digunakan oleh mereka. Anda bertanggung jawab atas informasi pribadi yang Anda pilih untuk dikirimkan dalam kasus ini. Harap berhati-hati saat menggunakan fitur ini. Untuk memastikan informasi pribadi Anda aman; kami mengomunikasikan pedoman privasi dan keamanan kami kepada semua anggota dan secara ketat menegakkan perlindungan privasi di dalam tim.</string>
+  <string name="screen4_content_0_1">Berdasarkan hukum yang berlaku di dalam atau di luar negara tempat tinggal Anda, proses hukum, permintaan litigasi.</string>
+  <string name="your_prior_permission">Izin Anda sebelumnya.</string>
+  <string name="by_requests_from_public_and_governmental_authorities">Atas permintaan dari otoritas publik dan pemerintah.</string>
+  <string name="to_protect_our_legal_rights_and_interests">Untuk melindungi hak dan kepentingan hukum kita.</string>
+  <string name="screen_4_content_1_2">Kami TIDAK mengumpulkan atau mengumpulkan informasi pribadi apa pun saat Anda mengunjungi, mengunduh, atau meningkatkan versi aplikasi apa pun, informasi pribadi Anda seperti nama depan dan nama belakang, alamat fisik, nomor telepon, nomor faks, dan informasi yang tersimpan di dalam perangkat Anda. Kami tidak akan mengumpulkan atau menyimpan Informasi Pribadi Anda dan kami tidak akan menggunakan, mentransfer atau mengungkapkan Informasi Pribadi Anda, kecuali informasi pribadi yang Anda kirimkan kepada kami saat Anda membuat akun pengguna, mengirim laporan kesalahan atau berpartisipasi dalam survei online dan aktivitas lainnya. . Dalam keadaan berikut, kami dapat mengungkapkan informasi pribadi Anda sesuai dengan keinginan atau peraturan hukum Anda.</string>
+</resources>

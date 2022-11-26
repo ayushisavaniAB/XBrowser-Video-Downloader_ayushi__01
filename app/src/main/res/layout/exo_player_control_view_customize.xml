@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentBottom="true"
+    android:layout_gravity="bottom">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_40sdp"
+        android:layout_alignParentEnd="true"
+        app:titleTextColor="@color/white"
+        android:background="@color/transparent"
+        app:title=""
+        android:theme="@style/MyThemeOverlay_Toolbar"/>
+
+    <RelativeLayout
+        android:id="@+id/layout_title_top"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_30sdp"
+        android:layout_below="@+id/toolbar"
+        android:layout_alignParentEnd="true"
+         android:layout_marginStart="@dimen/_8sdp"
+        android:layout_marginEnd="@dimen/_5sdp">
+
+        <net.cachapa.expandablelayout.ExpandableLayout
+            android:id="@+id/expandable_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_toStartOf="@id/btn_btnExpandControl"
+            android:orientation="horizontal"
+            app:el_duration="200"
+            app:el_expanded="true"
+            app:el_parallax="0.5">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <net.steamcrafted.materialiconlib.MaterialIconView
+                        android:id="@+id/btn_bgAudio"
+                        android:layout_width="@dimen/_30sdp"
+                        android:layout_height="@dimen/_30sdp"
+                        android:layout_centerInParent="true"
+                        android:padding="6dp"
+                        app:materialIcon="music_note"
+                        app:materialIconColor="@color/white"
+                        app:materialIconSize="@dimen/_18sdp" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/popupLayout"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <net.steamcrafted.materialiconlib.MaterialIconView
+                        android:id="@+id/btn_popup"
+                        android:layout_width="@dimen/_30sdp"
+                        android:layout_height="@dimen/_30sdp"
+                        android:layout_centerInParent="true"
+                        android:padding="8dp"
+                        app:materialIcon="arrange_bring_forward"
+                        app:materialIconColor="@color/white"
+                        app:materialIconSize="@dimen/_18sdp" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <net.steamcrafted.materialiconlib.MaterialIconView
+                        android:id="@+id/btn_btnRotation"
+                        android:layout_width="@dimen/_30sdp"
+                        android:layout_height="@dimen/_30sdp"
+                        android:layout_centerInParent="true"
+                        android:padding="8dp"
+                        app:materialIcon="screen_rotation"
+                        app:materialIconColor="@color/white"
+                        app:materialIconSize="@dimen/_18sdp" />
+                </RelativeLayout>
+
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <net.steamcrafted.materialiconlib.MaterialIconView
+                        android:id="@+id/btnVolumes"
+                        android:layout_width="@dimen/_30sdp"
+                        android:layout_height="@dimen/_30sdp"
+                        android:layout_centerInParent="true"
+                        android:padding="2dp"
+                        app:materialIcon="volume_medium"
+                        app:materialIconColor="@color/white"
+                        app:materialIconSize="@dimen/_18sdp" />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1">
+
+                    <net.steamcrafted.materialiconlib.MaterialIconView
+                        android:id="@+id/btnBrightness"
+                        android:layout_width="@dimen/_30sdp"
+                        android:layout_height="@dimen/_30sdp"
+                        android:layout_centerInParent="true"
+                        android:layout_marginStart="@dimen/_5sdp"
+                        android:padding="8dp"
+                        app:materialIcon="brightness_7"
+                        app:materialIconColor="@color/white"
+                        app:materialIconSize="@dimen/_18sdp" />
+                </RelativeLayout>
+
+            </LinearLayout>
+
+        </net.cachapa.expandablelayout.ExpandableLayout>
+
+        <net.steamcrafted.materialiconlib.MaterialIconView
+            android:id="@+id/btn_btnExpandControl"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_centerVertical="true"
+             android:layout_marginStart="@dimen/_8sdp"
+            android:layout_marginEnd="50dp"
+            android:layout_toStartOf="@+id/layout_end"
+            android:padding="@dimen/_3sdp"
+            app:materialIcon="chevron_double_left"
+            app:materialIconColor="@color/white"
+            app:materialIconSize="@dimen/_18sdp" />
+
+        <RelativeLayout
+            android:id="@+id/layout_end"
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentEnd="true" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_seekBar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_80sdp"
+        android:layout_above="@id/layout_btn_bot"
+         android:layout_marginHorizontal="@dimen/_10sdp">
+
+        <TextView
+            android:id="@+id/exo_position"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="@dimen/_5sdp"
+            android:includeFontPadding="false"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_10sdp"
+            android:textStyle="bold"
+            tools:text="18:20" />
+
+        <com.github.rubensousa.previewseekbar.exoplayer.PreviewTimeBar
+            android:id="@+id/previewTimebar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_toStartOf="@+id/exo_duration"
+            android:layout_toEndOf="@+id/exo_position"
+            app:previewFrameLayout="@id/previewFrameLayout" />
+
+        <TextView
+            android:id="@+id/exo_duration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="@dimen/_5sdp"
+            android:includeFontPadding="false"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_10sdp"
+            android:textStyle="bold"
+            tools:text="25:23" />
+
+        <FrameLayout
+            android:id="@+id/previewFrameLayout"
+            android:layout_width="@dimen/_100sdp"
+            android:layout_height="@dimen/_60sdp"
+           android:layout_margin="@dimen/_8sdp"
+            android:padding="@dimen/_2sdp"
+            android:visibility="visible"
+            tools:visibility="visible">
+
+            <ImageView
+                android:id="@+id/preImageView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitCenter" />
+
+        </FrameLayout>
+    </RelativeLayout>
+
+    <!--<RelativeLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="170dp"-->
+    <!--android:background="@color/black1"-->
+    <!--android:layout_alignParentBottom="true"-->
+    <!--android:alpha="0.3"/>-->
+    <RelativeLayout
+        android:id="@+id/layout_btn_bot"
+        android:layout_width="match_parent"
+        android:layout_height="85dp"
+        android:layout_alignParentBottom="true"
+         android:layout_marginStart="@dimen/_8sdp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="@dimen/_30sdp">
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/btnPlayPause"
+            android:layout_width="@dimen/_55sdp"
+            android:layout_height="@dimen/_55sdp"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:backgroundTint="@color/transparent"
+            android:clickable="true"
+            android:focusable="true"
+            android:scaleType="fitCenter"
+            android:tag="bg_tint_accent_color"
+            app:backgroundTint="@color/white"
+            app:borderWidth="@dimen/_1sdp"
+            app:elevation="0dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="@dimen/_10sdp"
+            android:layout_toStartOf="@id/btnPlayPause"
+            android:baselineAligned="false">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:id="@+id/btnLock"
+                    android:layout_width="@dimen/_35sdp"
+                    android:layout_height="@dimen/_35sdp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginStart="@dimen/_5sdp"
+                    android:padding="@dimen/_8sdp"
+                    app:materialIcon="lock"
+                    app:materialIconColor="@color/white"
+                    app:materialIconSize="@dimen/_18sdp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layout_skip_pre_10s"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:visibility="gone">
+
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:id="@+id/btn_skip_pre_10s"
+                    android:layout_width="@dimen/_35sdp"
+                    android:layout_height="@dimen/_35sdp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginStart="@dimen/_5sdp"
+                    app:materialIcon="skip_backward"
+                    app:materialIconColor="@color/white"
+                    app:materialIconSize="@dimen/_18sdp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:id="@+id/btn_skip_pre"
+                    android:layout_width="@dimen/_45sdp"
+                    android:layout_height="@dimen/_45sdp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginStart="@dimen/_5sdp"
+                    android:padding="@dimen/_8sdp"
+                    app:materialIcon="skip_previous"
+                    app:materialIconColor="@color/white"
+                    app:materialIconSize="@dimen/_20sdp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="15dp"
+            android:layout_toEndOf="@id/btnPlayPause"
+            android:baselineAligned="false"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:id="@+id/btn_skip_next"
+                    android:layout_width="@dimen/_45sdp"
+                    android:layout_height="@dimen/_45sdp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginStart="@dimen/_5sdp"
+                    android:padding="@dimen/_8sdp"
+                    app:materialIcon="skip_next"
+                    app:materialIconColor="@color/white"
+                    app:materialIconSize="@dimen/_20sdp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layout_skip_next_10s"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:visibility="gone">
+
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:id="@+id/btn_skip_next_10s"
+                    android:layout_width="@dimen/_35sdp"
+                    android:layout_height="@dimen/_35sdp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginStart="@dimen/_5sdp"
+                    app:materialIcon="skip_forward"
+                    app:materialIconColor="@color/white"
+                    app:materialIconSize="@dimen/_18sdp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <net.steamcrafted.materialiconlib.MaterialIconView
+                    android:id="@+id/btnResize"
+                    android:layout_width="@dimen/_35sdp"
+                    android:layout_height="@dimen/_35sdp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginStart="@dimen/_5sdp"
+                    android:padding="@dimen/_8sdp"
+                    app:materialIcon="arrow_expand_horizontal"
+                    app:materialIconColor="@color/white"
+                    app:materialIconSize="@dimen/_18sdp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+    </RelativeLayout>
+</RelativeLayout>

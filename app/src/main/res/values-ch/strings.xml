@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Browser Video Downloader</string>
+  <string name="home">家</string>
+  <string name="progress">进步</string>
+  <string name="save">完成的</string>
+  <string name="hello_blank_fragment">你好空白片段</string>
+  <string name="hint_for_download">输入网址或搜索</string>
+  <string name="bookmark_text">书签</string>
+  <string name="add_bookmark_title_label">标题 ：</string>
+  <string name="add_bookmark_url_label">网址：</string>
+  <string name="add_playlist_hint">输入名称</string>
+  <string name="add_bookmark_url_hint">输入网址</string>
+  <string name="ok_btn">好的</string>
+  <string name="yes_btn">是的</string>
+  <string name="no_btn">不</string>
+  <string name="delete_title">删除</string>
+  <string name="confirm_cancel">取消</string>
+  <string name="empty_edit_toast">名称不能为空。</string>
+  <string name="empty_edit_url_toast">网址不能为空。</string>
+  <string name="delete_video_msg">您确定要删除此视频吗？</string>
+  <string name="adFiltersLastUpdated">AdFiltersLasUpdated</string>
+  <string name="easyListLastModified">EasyListLastModified</string>
+  <string name="no_data_text">没有数据</string>
+  <string name="autoVideoDetect">自动视频检测</string>
+  <string name="menu_new_tab">新标签</string>
+  <string name="menu_bookmark">书签</string>
+  <string name="menu_history">历史</string>
+  <string name="menu_download">下载</string>
+  <string name="get_videos">获取视频</string>
+<!--  <string-array name="videourl_filters"> -->
+<!--    <item>Mp4</item>  -->
+<!--    <item>视频</item>  -->
+<!--    <item>谷歌用户内容</item>  -->
+<!--    <item>嵌入</item> -->
+<!--  </string-array>-->
+  <string name="adBlockON">AdBlockOn</string>
+  <string name="open_window_title">打开窗户</string>
+  <string name="download_text">下载</string>
+  <string name="download_not_found_text">未找到下载</string>
+<!--  <string name="app_name_text">视频下载器</string>-->
+  <string name="video_deleted_toast">视频删除成功。</string>
+  <string name="action_play_background">背景音频</string>
+  <string name="action_share">分享</string>
+  <string name="menu_rename">改名</string>
+  <string name="properties">特性</string>
+  <string name="confirm_delete">删除</string>
+  <string name="now_playing">现在播放</string>
+  <string name="menu">菜单</string>
+  <string name="action_info">信息</string>
+  <string name="video_detail_title">视频详情</string>
+  <string name="file_name_text">文件名 ：</string>
+  <string name="file_location_text">地点 ：</string>
+  <string name="format_text">格式 ：</string>
+  <string name="file_size_text">尺寸 ：</string>
+  <string name="duration_text">期间 ：</string>
+  <string name="resolution_text">解析度 ：</string>
+  <string name="date_text">修改日期 ：</string>
+  <string name="same_name_toast">名称已存在</string>
+  <string name="rename_toast">重命名成功</string>
+  <string name="confirm">你确定你要删除</string>
+  <string name="not_exist_toast">文件路径不存在。</string>
+  <string name="history_text">历史</string>
+  <string name="rename_text">改名</string>
+  <string name="delete">删除</string>
+  <string name="txt_continue">继续</string>
+  <string name="last_text">在您重新发布视频或照片之前，请先获得所有者的许可；</string>
+  <string name="second_text">任何未经授权的行为（重新上传或下载内容）和/或侵犯知识产权的行为均由用户自行承担。</string>
+  <string name="all_download">所有高清视频</string>
+  <string name="download">下载</string>
+  <string name="facebook">Facebook</string>
+  <string name="instagram">Instagram</string>
+  <string name="twitter">推特</string>
+  <string name="myspace">我的空间</string>
+  <string name="tudidy">整洁</string>
+  <string name="ted">泰德</string>
+  <string name="vk">VK</string>
+  <string name="videoHub">视频集线器</string>
+  <string name="screen_one">免费无限 VPN 将您的互联网自由和安全提升到一个新的水平。</string>
+  <string name="downloader">视频下载</string>
+  <string name="videoPlayer">视频播放器</string>
+  <string name="screen_two">通过 Wi-Fi、2G、3G 和 4G 蜂窝网络下载视频</string>
+  <string name="language">语言变化</string>
+  <string name="screen_three">在后台下载视频、音乐和图片</string>
+  <string name="history">显示历史</string>
+  <string name="screen_four">“更改和自定义您最喜欢的搜索引擎。</string>
+  <string name="collection">收集收藏</string>
+  <string name="screen_five">为您喜爱的网站添加书签 支持大文件下载。</string>
+  <string name="storage_permission_required_toast">允许存储访问权限！</string>
+  <string name="privacy_policy_text">隐私政策</string>
+  <string name="txt_policy1">本隐私政策解释了我们收集了哪些类型的详细信息、我们在哪里使用、如何提供安全性的完整详细信息。 \n我们提供完整的详细信息，当用户安装任何应用程序时，我们会收集哪些类型的数据。 \n请花一点时间熟悉我们的隐私惯例，如果您有任何问题，请告诉我们。</string>
+  <string name="txt_policy2">
+    <b>Personal Information</b>
+  </string>
+  <string name="txt_policy3">当您访问、下载或升级任何应用程序时，我们不会收集或收集任何个人信息、您的个人信息，例如您的名字和姓氏、实际地址、电话号码、传真号码以及存储在您设备中的信息。 我们不会收集或存储您的个人信息，也不会使用、转让或披露您的个人信息，您在创建用户帐户、发送错误报告或参与在线调查和其他活动时提交给我们的个人信息除外. 在下列情况下，我们可能会根据您的意愿或法律规定披露您的个人信息：</string>
+  <string name="txt_policy4">1.您的事先许可。 \n 2. 根据您居住国境内外的适用法律、法律程序、诉讼请求。 \n 3. 应公共和政府机构的要求。 \n 4. 保护我们的合法权益。</string>
+  <string name="txt_policy5">
+    <b>Permission in this Application:</b>
+  </string>
+  <string name="txt_policy6">
+    <b>INTERNET :</b>此权限用于检查互联网连接是否打开。
+  </string>
+  <string name="txt_policy7">
+    <b>ACCESS_NETWORK_STATE :</b>此权限用于设置和通知工具栏中，以查看网络连接。
+  </string>
+  <string name="txt_policy8">
+    <b>CHANGE_NETWORK_STATE :</b>此权限用于允许应用程序更改网络连接状态。
+  </string>
+  <string name="txt_policy9">
+    <b>ACCESS_WIFI_STATE :</b>此权限用于设置和通知工具栏中，以连接和断开 Wi-Fi。
+  </string>
+  <string name="txt_policy10">
+    <b>CHANGE_WIFI_STATE :</b>此权限用于允许应用程序更改 Wi-Fi 连接状态。
+  </string>
+  <string name="txt_policy11">
+    <b>READ_EXTERNAL_STORAGE :</b>此权限用于读取或查看 sd 卡中可用的数据。
+  </string>
+  <string name="txt_policy12">
+    <b>WRITE_EXTERNAL_STORAGE :</b>此权限用于修改 sd 卡中的图像。
+  </string>
+  <string name="txt_policy13">
+    <b>RECORD_AUDIO :</b>此权限用于显示音乐频谱。
+  </string>
+  <string name="txt_policy14">
+    <b>WAKE_LOCK :</b>此权限允许使用 PowerManager WakeLocks 来防止处理器休眠或屏幕变暗。
+  </string>
+  <string name="txt_policy15">
+    <b>FOREGROUND_SERVICE :</b>此权限用于允许常规应用程序使用 Service.startForeground。
+  </string>
+  <string name="txt_policy16">
+    <b>MODIFY_AUDIO_SETTINGS :</b>此权限用于允许应用程序修改全局音频设置。
+  </string>
+  <string name="txt_policy17">
+    <b>SYSTEM_ALERT_WINDOW :</b>此权限用于允许应用使用类型 WindowManager.LayoutParams.TYPE_APPLICATION_OVERLAY 创建窗口，显示在所有其他应用的顶部。
+  </string>
+  <string name="txt_policy18">
+    <b>VIBRATE :</b>此权限用于访问振动器。
+  </string>
+  <string name="txt_policy19">
+    <b>WRITE_SETTINGS :</b>此权限用于允许应用程序读取或写入系统设置。
+  </string>
+  <string name="txt_policy20">
+    <b>MEDIA_CONTENT_CONTROL :</b>此权限用于允许应用程序知道正在播放什么内容并控制其播放。
+  </string>
+  <string name="txt_policy21">
+    <b>PROTECTION YOUR PERSONAL INFORMATION</b>
+  </string>
+  <string name="txt_policy22">我们采取预防措施（包括行政、技术和物理措施）来保护您的个人信息免遭丢失、被盗和滥用，以及免遭未经授权的访问、披露、更改和破坏。 \n当您使用某些产品、服务或发表评论时，您分享的个人信息对其他用户是可见的，并且可以被他们阅读、收集或使用。 \n您应对在这些情况下选择提交的个人信息负责。 \n请小心使用这些功能。 \n确保您的个人信息安全； 我们向所有成员传达我们的隐私和安全指南，并在团队内部严格执行隐私保护措施。</string>
+  <string name="txt_policy23">
+    <b>Third Parties Sites</b>
+  </string>
+  <string name="txt_policy24">我们使用 Google Admob SDK 在我们的应用程序中投放广告。 \n请记住，编程中可能存在错误，有时编程错误可能会导致不必要的副作用。请携带其他公司的广告。</string>
+  <string name="txt_policy25">
+    <b>Children</b>
+  </string>
+  <string name="txt_policy26">我们不会收集、使用或披露儿童的个人信息。 \n如果您未满 13 岁，您可以在有父母或监护人陪伴的情况下使用我们的网站。 \n我们不提供针对儿童的服务。</string>
+  <string name="txt_policy27">
+    <b>Update Privacy Policy</b>
+  </string>
+  <string name="txt_policy28">我们的隐私政策可能会不时更改，我们将在此页面上发布任何隐私政策更改，因此请定期查看。</string>
+  <string name="txt_policy29">
+    <b>Contacting Us</b>
+  </string>
+  <string name="txt_policy30">如果您对我们的隐私政策或数据处理有任何疑问或疑虑，请通过开发者电子邮件与我们联系。</string>
+  <string name="tiktok">抖音</string>
+  <string name="daily">每日运动</string>
+  <string name="videoPlayer1">视频播放器</string>
+  <string name="add_playlist_text">添加到播放列表</string>
+  <string name="action_play_popup">播放弹窗</string>
+  <string name="add_favorite_text">添加收藏夹</string>
+  <string name="remove_from_playlist_text">从播放列表中删除</string>
+  <string name="remove_favourite_text">删除收藏夹</string>
+  <string name="video_remove_favorite_toast">视频删除到收藏。</string>
+  <string name="video_add_favorite_toast">视频添加到收藏夹。</string>
+  <string name="new_playlist_text">新播放列表</string>
+  <string name="video_added_toast">视频已添加到播放列表</string>
+  <string name="add_playlist_title">创建新的播放列表</string>
+  <string name="create_btn">创造</string>
+  <string name="video_not_found_text">未找到视频</string>
+  <string name="search_title">搜索视频</string>
+  <string name="downloader1">视频下载器</string>
+  <string name="privacy">隐私政策</string>
+  <string name="share">分享</string>
+  <string name="back">后退</string>
+  <string name="next">下一个</string>
+  <string name="folder">文件夹</string>
+  <string name="setting">设置</string>
+  <string name="browser">浏览器视频下载器</string>
+  <string name="welcome_main_text">安全浏览器的好处</string>
+  <string name="browser_text">XBrowser 下载器</string>
+  <string name="clear">清除浏览器历史记录</string>
+  <string name="history1">历史</string>
+  <string name="about">关于</string>
+  <string name="downloads">下载</string>
+  <string name="browsers">浏览器</string>
+  <string name="location">下载位置</string>
+  <string name="rate">速度</string>
+  <string name="connecting">连接到服务器..</string>
+  <string name="no_history">没有历史</string>
+  <string name="how_to_download">如何下载</string>
+  <string name="skip">跳过</string>
+  <string name="got_it">知道了</string>
+  <string name="screen_1_content">免费无限 VPN \n将您的互联网\n自由和安全\n提升到一个新的水平。</string>
+  <string name="start">开始</string>
+  <string name="choose">选择</string>
+  <string name="your_language">你的语言</string>
+  <string name="apply">申请</string>
+  <string name="all_language">所有语言</string>
+  <string name="ads_preference">广告偏好</string>
+  <string name="screen_3_content_1">您的广告偏好页面还可以让您了解我们如何使用数据来展示我们认为您最感兴趣的广告，并让您调整如何使用这些数据来向您展示广告。 在广告设置下，您可以：</string>
+  <string name="screen_3_content_2">查看有关如何使用数据在此浏览器上向您展示广告的常见问题</string>
+  <string name="screen_3_content_3">选择我们是否可以根据您在其他网站、应用程序或离线上的活动向您展示个性化广告。</string>
+  <string name="screen_3_content_4">查看可以根据您的活动或信息选择向您所包含的特定受众展示广告的广告商，并决定这些受众是否可以用于向您展示广告。</string>
+  <string name="low">低的</string>
+  <string name="medium">中等的</string>
+  <string name="high">高的</string>
+  <string name="terms_and_condition">附带条约</string>
+  <string name="screen_4_content_1">本隐私政策解释了我们收集了哪些类型的详细信息、我们在哪里使用、如何提供安全性的完整详细信息。 当用户安装任何应用程序时，我们会提供完整的详细信息。 请花点时间熟悉我们的隐私惯例，如果您有任何问题，请告诉我们。</string>
+  <string name="screen_4_content_2">当您访问、下载或升级任何应用程序时，我们不会收集或收集任何个人信息、您的个人信息，例如您的名字和姓氏、实际地址、电话号码、传真号码以及存储在您设备中的信息。 我们不会收集或存储您的个人信息，也不会使用、转让或披露您的个人信息，您在创建用户帐户、发送错误报告或参与在线调查和其他活动时提交给我们的个人信息除外. 在下列情况下，我们可能会根据您的意愿或法律规定披露您的个人信息：</string>
+  <string name="i_agree_with_terms_amp_condition">我同意条款和条件</string>
+  <string name="accept">接受</string>
+  <string name="privacy_policy">隐私政策</string>
+  <string name="screen_5_content_1">本隐私政策解释了我们收集了哪些类型的详细信息、我们在哪里使用、如何提供安全性的完整详细信息。 当用户安装任何应用程序时，我们会提供完整的详细信息。 请花点时间熟悉我们的隐私惯例，如果您有任何问题，请告诉我们。</string>
+  <string name="personal_information">个人信息</string>
+  <string name="screen_5_content_2">当您访问、下载或升级任何应用程序时，我们不会收集或收集任何个人信息、您的个人信息，例如您的名字和姓氏、实际地址、电话号码、传真号码以及存储在您设备中的信息。 我们不会收集或存储您的个人信息，也不会使用、转让或披露您的个人信息，您在创建用户帐户、发送错误报告或参与在线调查和其他活动时提交给我们的个人信息除外. 在下列情况下，我们可能会根据您的意愿或法律规定披露您的个人信息：</string>
+  <string name="done">完毕</string>
+  <string name="safe_browser_benefits">安全浏览器的好处</string>
+  <string name="maintain_anonymity_to_avoid_monitoring_amp_tracking">保持匿名以避免监控和跟踪</string>
+  <string name="unlimited_speed_amp_traffic">无限的速度和交通</string>
+  <string name="access_blocked_websites">访问被阻止的网站</string>
+  <string name="access_web_at_high_speed">高速访问网络</string>
+  <string name="hide_your_search_history">隐藏您的搜索记录</string>
+  <string name="bypass_geo_blocks_to_play_videos_amp_audios">绕过地理块播放视频和音频</string>
+  <string name="keep_personal_data_safe_amp_secure">确保个人数据安全无虞</string>
+  <string name="safe_browser">安全浏览器</string>
+  <string name="normal_browser">普通浏览器</string>
+  <string name="abc">美国广播公司</string>
+  <string name="add_bookmark">添加书签</string>
+  <string name="video_list">视频列表</string>
+  <string name="google">谷歌</string>
+  <string name="_1_08_mb_1_80_mb_60">1.08 MB /1.80 MB 60%</string>
+  <string name="finished">完成的</string>
+  <string name="_1">1</string>
+  <string name="disclaimer">免责声明</string>
+  <string name="add">添加</string>
+  <string name="all_history_delete">您确定要从历史记录中删除此所有数据吗？</string>
+  <string name="all_window_close">您确定要关闭此“全部”窗口吗？</string>
+  <string name="alert">警报</string>
+  <string name="close_this_window">您确定要关闭此窗口吗？</string>
+  <string name="Delete_bookmark">删除书签</string>
+  <string name="this_bookmark">你确定要这个书签吗？</string>
+  <string name="all_data_delete_from_bookmark">您确定要从书签中删除此所有数据吗？</string>
+  <string name="delete_bookmark">删除书签</string>
+  <string name="this_bookmark_delete">您确定要删除此书签吗？</string>
+  <string name="close_all_window_2">您确定关闭所有窗口吗？</string>
+  <string name="close_this_window_2">您确定要关闭此窗口吗？</string>
+  <string name="all_data_delete_from_history">您确定要从历史记录中删除此所有数据吗？</string>
+  <string name="delete_this_data_from_history">您确定要从历史记录中删除这些数据吗？</string>
+  <string name="delete_this_item">从列表中删除此项？</string>
+  <string name="this_bookmark_2">你确定要这个书签吗？</string>
+  <string name="change_language">改变语言</string>
+  <string name="screen4_content_0_1">根据您居住国境内或境外的适用法律、法律程序、诉讼请求。</string>
+  <string name="your_prior_permission">您的事先许可。</string>
+  <string name="screen_4_content_1_4">我们不会收集、使用或披露儿童的个人信息。如果您未满 13 岁，您可以在有父母或监护人陪伴的情况下使用我们的网站。我们不提供针对儿童的服务。</string>
+  <string name="screen_4_content_1_3">我们采取预防措施（包括行政、技术和物理措施）来保护您的个人信息免遭丢失、被盗和滥用，以及免遭未经授权的访问、披露、更改和破坏。当您使用某些产品、服务或发表评论时，您分享的个人信息对其他用户是可见的，并且可以被他们阅读、收集或使用。您应对在这些情况下选择提交的个人信息负责。使用这些功能时请小心。确保您的个人信息安全；我们向所有成员传达我们的隐私和安全指南，并在团队内部严格执行隐私保护措施。</string>
+  <string name="by_requests_from_public_and_governmental_authorities">应公共和政府当局的要求。</string>
+  <string name="to_protect_our_legal_rights_and_interests">保护我们的合法权益。</string>
+  <string name="screen_4_content_1_2">当您访问、下载或升级任何应用程序时，我们不会收集或收集任何个人信息、您的个人信息，例如您的名字和姓氏、实际地址、电话号码、传真号码以及存储在您设备中的信息。我们不会收集或存储您的个人信息，也不会使用、转让或披露您的个人信息，您在创建用户帐户、发送错误报告或参与在线调查和其他活动时提交给我们的个人信息除外.在下列情况下，我们可能会根据您的意愿或法律规定披露您的个人信息。</string>
+</resources>

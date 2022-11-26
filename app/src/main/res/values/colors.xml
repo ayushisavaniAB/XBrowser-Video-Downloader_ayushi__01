@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#7B5FFD</color>
+    <color name="purple_700">#7B5FFD</color>
+    <color name="teal_200">#131213</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#7B5FFD</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="card_bg_color">#292727</color>
+    <color name="color01">#FF5E54</color>
+    <color name="color02">#DC5EF6</color>
+    <color name="color03">#5F4FEF</color>
+    <color name="light_text_color">#80D5D5D5</color>
+    <color name="black_trans">#66000000</color>
+    <color name="appColor">#C44FFF</color>
+    <color name="mainBgColor">#F5EEFE</color>
+    <color name="mainBg">#FFFFFF</color>
+
+    <color name="textColor">#FD768C</color>
+    <color name="colorBlack">#121212</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="statusbar">#7256F8</color>
+    <color name="purple">#7356F8</color>
+    <color name="blue">#03A9F4</color>
+    <color name="dark_black">#80000000</color>
+    <color name="vpn_bg">#CC110936</color>
+    <color name="transparentTextColor">#99FFFFFF</color>
+<!--    <color name="colorOrange">#EE1FFE</color>-->
+    <color name="colorBg">#12234E</color>
+    <color name="backColor">#000034</color>
+    <color name="darkBlue">#9B79EF</color>
+    <color name="selctorColor">#4DFFFFFF</color>
+    <color name="unselectedColor">#1A2445</color>
+</resources>

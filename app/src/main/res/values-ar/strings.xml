@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Browser Video Downloader</string>
+  <string name="home">مسكن</string>
+  <string name="progress">تقدم</string>
+  <string name="save">تم الانتهاء من</string>
+  <string name="hello_blank_fragment">مرحبا جزء فارغ</string>
+  <string name="hint_for_download">اكتب URL أو Search</string>
+  <string name="bookmark_text">المرجعية</string>
+  <string name="add_bookmark_title_label">عنوان :</string>
+  <string name="add_bookmark_url_label">URL:</string>
+  <string name="add_playlist_hint">إدخال اسم</string>
+  <string name="add_bookmark_url_hint">أدخل عنوان URL</string>
+  <string name="ok_btn">موافق</string>
+  <string name="yes_btn">نعم</string>
+  <string name="no_btn">رقم</string>
+  <string name="delete_title">حذف</string>
+  <string name="confirm_cancel">يلغي</string>
+  <string name="empty_edit_toast">لا يمكن أن يكون الاسم فارغًا.</string>
+  <string name="empty_edit_url_toast">لا يمكن أن يكون عنوان URL فارغًا.</string>
+  <string name="delete_video_msg">هل أنت متأكد من حذف هذا الفيديو؟</string>
+  <string name="adFiltersLastUpdated">AdFiltersLasUpdated</string>
+  <string name="easyListLastModified">EasyListLastModified</string>
+  <string name="no_data_text">لايوجد بيانات</string>
+  <string name="autoVideoDetect">AutoVideoDetect</string>
+  <string name="menu_new_tab">علامة تبويب جديدة</string>
+  <string name="menu_bookmark">إشارات مرجعية</string>
+  <string name="menu_history">تاريخ</string>
+  <string name="menu_download">التحميلات</string>
+  <string name="get_videos">احصل على مقاطع فيديو</string>
+<!--  <string-array name="videourl_filters"> -->
+<!--    <item>Mp4</item>  -->
+<!--    <item>فيديو</item>  -->
+<!--    <item>محتوى googleusercontent</item>  -->
+<!--    <item>تضمين</item> -->
+<!--  </string-array>-->
+  <string name="adBlockON">AdBlockOn</string>
+  <string name="open_window_title">افتح النافذة</string>
+  <string name="download_text">تحميل</string>
+  <string name="download_not_found_text">التنزيل غير موجود</string>
+<!--  <string name="app_name_text">تنزيل الفيديو</string>-->
+  <string name="video_deleted_toast">تم حذف الفيديو بنجاح.</string>
+  <string name="action_play_background">صوت الخلفية</string>
+  <string name="action_share">يشارك</string>
+  <string name="menu_rename">إعادة تسمية</string>
+  <string name="properties">الخصائص</string>
+  <string name="confirm_delete">حذف</string>
+  <string name="now_playing">الان العب</string>
+  <string name="menu">قائمة الطعام</string>
+  <string name="action_info">معلومات</string>
+  <string name="video_detail_title">تفاصيل الفيديو</string>
+  <string name="file_name_text">اسم الملف :</string>
+  <string name="file_location_text">موقع :</string>
+  <string name="format_text">شكل :</string>
+  <string name="file_size_text">بحجم :</string>
+  <string name="duration_text">مدة :</string>
+  <string name="resolution_text">القرار :</string>
+  <string name="date_text">تاريخ معدل :</string>
+  <string name="same_name_toast">الاسم موجود بالفعل</string>
+  <string name="rename_toast">تمت إعادة التسمية بنجاح</string>
+  <string name="confirm">هل أنت متأكد أنك تريد حذف</string>
+  <string name="not_exist_toast">مسار الملف غير موجود.</string>
+  <string name="history_text">تاريخ</string>
+  <string name="rename_text">إعادة تسمية</string>
+  <string name="delete">حذف</string>
+  <string name="txt_continue">يكمل</string>
+  <string name="last_text">يرجى الحصول على الإذن من المالك قبل إعادة نشر مقاطع الفيديو أو الصور ؛</string>
+  <string name="second_text">أي إجراءات غير مصرح بها (إعادة تحميل أو تنزيل المحتويات) و / أو انتهاكات حقوق الملكية الفكرية هي مسؤولية المستخدم وحده.</string>
+  <string name="all_download">جميع مقاطع الفيديو عالية الدقة</string>
+  <string name="download">تحميل</string>
+  <string name="facebook">فيسبوك</string>
+  <string name="instagram">انستغرام</string>
+  <string name="twitter">تويتر</string>
+  <string name="myspace">فضائي</string>
+  <string name="tudidy">توديدي</string>
+  <string name="ted">تيد</string>
+  <string name="vk">VK</string>
+  <string name="videoHub">فيديو هاب</string>
+  <string name="screen_one">VPN مجاني غير محدود للانتقال بحرية الإنترنت والأمان إلى المستوى التالي.</string>
+  <string name="downloader">تنزيل الفيديو</string>
+  <string name="videoPlayer">مشغل فديوهات</string>
+  <string name="screen_two">قم بتنزيل مقاطع الفيديو عبر شبكات Wi-Fi و 2G و 3G و 4G الخلوية</string>
+  <string name="language">تغير اللغة</string>
+  <string name="screen_three">قم بتنزيل الفيديو والموسيقى والصور في الخلفية</string>
+  <string name="history">عرض التاريخ</string>
+  <string name="screen_four">\"تغيير وتخصيص محرك البحث المفضل لديك.</string>
+  <string name="collection">جمع المجموعة</string>
+  <string name="screen_five">إضافة إشارات مرجعية لمواقع الويب المفضلة لديك دعم تنزيل ملف كبير.</string>
+  <string name="storage_permission_required_toast">السماح بإذن الوصول إلى التخزين!</string>
+  <string name="privacy_policy_text">سياسة الخصوصية</string>
+  <string name="txt_policy1">توضح سياسة الخصوصية هذه التفاصيل الكاملة حول نوع التفاصيل التي جمعناها ، وأين نستخدمها ، وكيفية توفير الأمان. \n نحن نقدم تفاصيل كاملة عن نوع البيانات التي نجمعها عند قيام المستخدم بتثبيت أي تطبيق. \n الرجاء تخصيص بعض الوقت للتعرف على ممارسات الخصوصية الخاصة بنا وإعلامنا إذا كان لديك أي أسئلة.</string>
+  <string name="txt_policy2">
+    <b>Personal Information</b>
+  </string>
+  <string name="txt_policy3">نحن لا نجمع أو نجمع أي معلومات شخصية أثناء زيارة أي تطبيق أو تنزيله أو ترقيته ، أو معلوماتك الشخصية مثل الاسم الأول واسم العائلة والعناوين الفعلية وأرقام الهواتف وأرقام الفاكس والمعلومات المخزنة في جهازك. لن نقوم بجمع أو تخزين معلوماتك الشخصية ولن نستخدم معلوماتك الشخصية أو ننقلها أو نكشف عنها ، باستثناء المعلومات الشخصية التي ترسلها إلينا عند إنشاء حساب مستخدم أو إرسال تقرير خطأ أو المشاركة في الاستطلاعات عبر الإنترنت والأنشطة الأخرى . في الحالات التالية ، قد نكشف عن معلوماتك الشخصية وفقًا لرغبتك أو اللوائح بموجب القانون:</string>
+  <string name="txt_policy4">1. إذنك المسبق. \n 2. بموجب القانون المعمول به داخل أو خارج بلد إقامتك ، الإجراءات القانونية ، طلبات التقاضي. \n 3. بطلبات من السلطات العامة والحكومية. \n 4. لحماية حقوقنا ومصالحنا القانونية.</string>
+  <string name="txt_policy5">
+    <b>Permission in this Application:</b>
+  </string>
+  <string name="txt_policy6">
+    <b>INTERNET :</b>يتم استخدام هذا الإذن للتحقق من اتصال الإنترنت قيد التشغيل أو الإيقاف.
+  </string>
+  <string name="txt_policy7">
+    <b>ACCESS_NETWORK_STATE :</b>يتم استخدام هذا الإذن في الإعدادات وشريط أدوات الإعلام لعرض اتصالات الشبكة.
+  </string>
+  <string name="txt_policy8">
+    <b>CHANGE_NETWORK_STATE :</b>يستخدم هذا الإذن للسماح للتطبيقات بتغيير حالة اتصال الشبكة.
+  </string>
+  <string name="txt_policy9">
+    <b>ACCESS_WIFI_STATE :</b>يتم استخدام هذا الإذن في الإعدادات وشريط أدوات الإعلام من أجل الاتصال وقطع الاتصال بشبكة Wi-Fi.
+  </string>
+  <string name="txt_policy10">
+    <b>CHANGE_WIFI_STATE :</b>يستخدم هذا الإذن للسماح للتطبيقات بتغيير حالة اتصال Wi-Fi.
+  </string>
+  <string name="txt_policy11">
+    <b>READ_EXTERNAL_STORAGE :</b>يستخدم هذا الإذن لقراءة أو لرؤية البيانات المتوفرة في بطاقة sd.
+  </string>
+  <string name="txt_policy12">
+    <b>WRITE_EXTERNAL_STORAGE :</b>يستخدم هذا الإذن للتعديل في الصورة من بطاقة sd.
+  </string>
+  <string name="txt_policy13">
+    <b>RECORD_AUDIO :</b>يستخدم هذا الإذن لعرض طيف الموسيقى.
+  </string>
+  <string name="txt_policy14">
+    <b>WAKE_LOCK :</b>يسمح هذا الإذن باستخدام PowerManager WakeLocks لمنع المعالج من السكون أو منع الشاشة من التعتيم.
+  </string>
+  <string name="txt_policy15">
+    <b>FOREGROUND_SERVICE :</b>يستخدم هذا الإذن للسماح لتطبيق عادي باستخدام Service.startForeground.
+  </string>
+  <string name="txt_policy16">
+    <b>MODIFY_AUDIO_SETTINGS :</b>يستخدم هذا الإذن للسماح لتطبيق ما بتعديل إعدادات الصوت العالمية.
+  </string>
+  <string name="txt_policy17">
+    <b>SYSTEM_ALERT_WINDOW :</b>يستخدم هذا الإذن للسماح لتطبيق ما بإنشاء نوافذ باستخدام النوع WindowManager.LayoutParams.TYPE_APPLICATION_OVERLAY ، الذي يظهر فوق جميع التطبيقات الأخرى.
+  </string>
+  <string name="txt_policy18">
+    <b>VIBRATE :</b>يستخدم هذا الإذن للوصول إلى الهزاز.
+  </string>
+  <string name="txt_policy19">
+    <b>WRITE_SETTINGS :</b>يستخدم هذا الإذن للسماح للتطبيق بقراءة أو كتابة إعدادات النظام.
+  </string>
+  <string name="txt_policy20">
+    <b>MEDIA_CONTENT_CONTROL :</b>يستخدم هذا الإذن للسماح لتطبيق ما بمعرفة المحتوى الذي يتم تشغيله والتحكم في تشغيله.
+  </string>
+  <string name="txt_policy21">
+    <b>PROTECTION YOUR PERSONAL INFORMATION</b>
+  </string>
+  <string name="txt_policy22">نحن نتخذ الاحتياطات - بما في ذلك التدابير الإدارية والفنية والمادية - لحماية معلوماتك الشخصية من الضياع والسرقة وسوء الاستخدام ، وكذلك ضد الوصول غير المصرح به والكشف والتعديل والتدمير. \n عندما تستخدم بعض المنتجات أو الخدمات أو تنشر تعليقاتك ، فإن المعلومات الشخصية التي تشاركها تكون مرئية للمستخدمين الآخرين ويمكن قراءتها أو جمعها أو استخدامها من قبلهم. \n أنت مسؤول عن المعلومات الشخصية التي تختار إرسالها في هذه الحالات. \n الرجاء توخي الحذر عند استخدام هذه الميزات. \n للتأكد من أن معلوماتك الشخصية آمنة ؛ ننقل إرشادات الخصوصية والأمان الخاصة بنا إلى جميع الأعضاء ونفرض بصرامة إجراءات حماية الخصوصية داخل الفريق.</string>
+  <string name="txt_policy23">
+    <b>Third Parties Sites</b>
+  </string>
+  <string name="txt_policy24">نستخدم Google Admob SDK للإعلانات في تطبيقاتنا. \n تذكر أنه قد تكون هناك أخطاء في البرمجة ، وفي بعض الأحيان قد تتسبب أخطاء البرمجة في حدوث آثار جانبية غير مرغوب فيها. حمل إعلانات من شركات أخرى.</string>
+  <string name="txt_policy25">
+    <b>Children</b>
+  </string>
+  <string name="txt_policy26">نحن لا نجمع المعلومات الشخصية من الأطفال أو نستخدمها أو نكشف عنها. \n إذا كان عمرك أقل من 13 عامًا ، فيمكنك استخدام موقعنا على الويب عندما تكون مع أحد الوالدين أو الوصي. \n نحن لا نقدم خدمة تركز على الأطفال.</string>
+  <string name="txt_policy27">
+    <b>Update Privacy Policy</b>
+  </string>
+  <string name="txt_policy28">قد تتغير سياسة الخصوصية الخاصة بنا من وقت لآخر ، وسنقوم بنشر أي تغييرات في سياسة الخصوصية على هذه الصفحة ، لذا يرجى مراجعتها بشكل دوري.</string>
+  <string name="txt_policy29">
+    <b>Contacting Us</b>
+  </string>
+  <string name="txt_policy30">إذا كانت لديك أي أسئلة أو مخاوف بشأن سياسة الخصوصية أو معالجة البيانات ، فيرجى الاتصال بنا على البريد الإلكتروني للمطور.</string>
+  <string name="tiktok">تيك توك</string>
+  <string name="daily">ديلي موشن</string>
+  <string name="videoPlayer1">مشغل فديوهات</string>
+  <string name="add_playlist_text">أضف إلى قائمة التشغيل</string>
+  <string name="action_play_popup">تشغيل Popup</string>
+  <string name="add_favorite_text">أصنع معروف</string>
+  <string name="remove_from_playlist_text">إزالة من قائمة التشغيل</string>
+  <string name="remove_favourite_text">إزالة المفضلة</string>
+  <string name="video_remove_favorite_toast">حذف الفيديو إلى المفضلة.</string>
+  <string name="video_add_favorite_toast">تمت إضافة الفيديو إلى المفضلة.</string>
+  <string name="new_playlist_text">قائمة تشغيل جديدة</string>
+  <string name="video_added_toast">تمت إضافة الفيديو إلى قائمة التشغيل</string>
+  <string name="add_playlist_title">إنشاء قائمة تشغيل جديدة</string>
+  <string name="create_btn">خلق</string>
+  <string name="video_not_found_text">لم يتم العثور على مقاطع الفيديو</string>
+  <string name="search_title">البحث عن الفيديو</string>
+  <string name="downloader1">تنزيل الفيديو</string>
+  <string name="privacy">سياسة الخصوصية</string>
+  <string name="share">يشارك</string>
+  <string name="back">خلف</string>
+  <string name="next">التالي</string>
+  <string name="folder">مجلد</string>
+  <string name="setting">إعدادات</string>
+  <string name="browser">متصفح تنزيل الفيديو</string>
+  <string name="welcome_main_text">فوائد المتصفح الآمن</string>
+  <string name="browser_text">XBrowser تنزيل</string>
+  <string name="clear">مسح محفوظات المستعرض</string>
+  <string name="history1">تاريخ</string>
+  <string name="about">حول</string>
+  <string name="downloads">تحميل</string>
+  <string name="browsers">المستعرض</string>
+  <string name="location">موقع التنزيل</string>
+  <string name="rate">معدل</string>
+  <string name="connecting">الاتصال بالخادم..</string>
+  <string name="no_history">لا تاريخ</string>
+  <string name="how_to_download">كيفية تحميل</string>
+  <string name="skip">يتخطى</string>
+  <string name="got_it">فهمتها</string>
+  <string name="screen_1_content">VPN مجاني غير محدود \n للارتقاء بالإنترنت \n بالحرية والأمان \n إلى المستوى التالي.</string>
+  <string name="start">بداية</string>
+  <string name="choose">يختار</string>
+  <string name="your_language">لغتك</string>
+  <string name="apply">يتقدم</string>
+  <string name="all_language">كل اللغات</string>
+  <string name="ads_preference">تفضيلات الإعلانات</string>
+  <string name="screen_3_content_1">تتيح لك صفحة تفضيلات الإعلانات أيضًا معرفة كيفية استخدامنا للبيانات لعرض الإعلانات التي نعتقد أنها ستكون أكثر إثارة للاهتمام بالنسبة لك وتتيح لك ضبط كيفية استخدام هذه البيانات لعرض الإعلانات لك. ضمن إعدادات الإعلان ، يمكنك:</string>
+  <string name="screen_3_content_2">اعرض الأسئلة الشائعة حول كيفية استخدام البيانات لعرض الإعلانات لك على هذا الحاجب</string>
+  <string name="screen_3_content_3">اختر ما إذا كان بإمكاننا عرض إعلانات مخصصة لك أم لا بناءً على نشاطك على مواقع الويب أو التطبيقات الأخرى أو في وضع عدم الاتصال.</string>
+  <string name="screen_3_content_4">اعرض المعلنين الذين يمكنهم اختيار عرض إعلاناتهم على جماهير معينة تم تضمينك فيها بناءً على نشاطك أو معلوماتك وحدد ما إذا كان يمكن استخدام هذه الجماهير لعرض الإعلانات لك.</string>
+  <string name="low">قليل</string>
+  <string name="medium">متوسط</string>
+  <string name="high">عالٍ</string>
+  <string name="terms_and_condition">أحكام وشروط</string>
+  <string name="screen_4_content_1">توضح سياسة الخصوصية هذه التفاصيل الكاملة حول نوع التفاصيل التي جمعناها ، وأين نستخدمها ، وكيفية توفير الأمان. نحن نقدم تفاصيل كاملة عن نوع البيانات التي نجمعها عند قيام المستخدم بتثبيت أي تطبيق. يرجى تخصيص بعض الوقت للتعرف على ممارسات الخصوصية الخاصة بنا وإعلامنا إذا كان لديك أي أسئلة.</string>
+  <string name="screen_4_content_2">نحن لا نجمع أو نجمع أي معلومات شخصية أثناء زيارة أي تطبيق أو تنزيله أو ترقيته ، أو معلوماتك الشخصية مثل الاسم الأول واسم العائلة والعناوين الفعلية وأرقام الهواتف وأرقام الفاكس والمعلومات المخزنة في جهازك. لن نقوم بجمع أو تخزين معلوماتك الشخصية ولن نستخدم معلوماتك الشخصية أو ننقلها أو نكشف عنها ، باستثناء المعلومات الشخصية التي ترسلها إلينا عند إنشاء حساب مستخدم أو إرسال تقرير خطأ أو المشاركة في الاستطلاعات عبر الإنترنت والأنشطة الأخرى . في الحالات التالية ، قد نكشف عن معلوماتك الشخصية وفقًا لرغبتك أو اللوائح بموجب القانون:</string>
+  <string name="i_agree_with_terms_amp_condition">أوافق على الشروط والأحكام</string>
+  <string name="accept">قبول</string>
+  <string name="privacy_policy">سياسة الخصوصية</string>
+  <string name="screen_5_content_1">توضح سياسة الخصوصية هذه التفاصيل الكاملة حول نوع التفاصيل التي جمعناها ، وأين نستخدمها ، وكيفية توفير الأمان. نحن نقدم تفاصيل كاملة عن نوع البيانات التي نجمعها عند قيام المستخدم بتثبيت أي تطبيق. يرجى تخصيص بعض الوقت للتعرف على ممارسات الخصوصية لدينا وإعلامنا إذا كان لديك أي أسئلة.</string>
+  <string name="personal_information">معلومات شخصية</string>
+  <string name="screen_5_content_2">نحن لا نجمع أو نجمع أي معلومات شخصية أثناء زيارة أي تطبيق أو تنزيله أو ترقيته ، أو معلوماتك الشخصية مثل الاسم الأول واسم العائلة والعناوين الفعلية وأرقام الهواتف وأرقام الفاكس والمعلومات المخزنة في جهازك. لن نقوم بجمع أو تخزين معلوماتك الشخصية ولن نستخدم معلوماتك الشخصية أو ننقلها أو نكشف عنها ، باستثناء المعلومات الشخصية التي ترسلها إلينا عند إنشاء حساب مستخدم أو إرسال تقرير خطأ أو المشاركة في الاستطلاعات عبر الإنترنت والأنشطة الأخرى . في الظروف التالية ، قد نكشف عن معلوماتك الشخصية وفقًا لرغبتك أو اللوائح بموجب القانون:</string>
+  <string name="done">فعله</string>
+  <string name="safe_browser_benefits">فوائد المتصفح الآمن</string>
+  <string name="maintain_anonymity_to_avoid_monitoring_amp_tracking">حافظ على عدم الكشف عن هويتك لتجنب المراقبة والتعقب</string>
+  <string name="unlimited_speed_amp_traffic">سرعة وحركة مرور غير محدودة</string>
+  <string name="access_blocked_websites">الوصول إلى المواقع المحجوبة</string>
+  <string name="access_web_at_high_speed">الوصول إلى الويب بسرعة عالية</string>
+  <string name="hide_your_search_history">إخفاء تاريخ البحث الخاص بك</string>
+  <string name="bypass_geo_blocks_to_play_videos_amp_audios">تجاوز الكتل الجغرافية لتشغيل مقاطع الفيديو والتسجيلات الصوتية</string>
+  <string name="keep_personal_data_safe_amp_secure">حافظ على البيانات الشخصية آمنة ومأمونة</string>
+  <string name="safe_browser">متصفح آمن</string>
+  <string name="normal_browser">متصفح عادي</string>
+  <string name="abc">Abc</string>
+  <string name="add_bookmark">اضافة للمفضلة</string>
+  <string name="video_list">قائمة الفيديو</string>
+  <string name="google">جوجل</string>
+  <string name="_1_08_mb_1_80_mb_60">1.08 ميغا بايت / 1.8 ميغا بايت 60٪</string>
+  <string name="finished">تم الانتهاء من</string>
+  <string name="_1">1</string>
+  <string name="disclaimer">تنصل</string>
+  <string name="add">يضيف</string>
+  <string name="all_history_delete">هل أنت متأكد من حذف جميع البيانات من التاريخ؟</string>
+  <string name="all_window_close">هل أنت متأكد أنك تريد إغلاق كل هذه النافذة؟</string>
+  <string name="alert">انذار</string>
+  <string name="close_this_window">هل أنت متأكد أنك تريد إغلاق هذه النافذة؟</string>
+  <string name="Delete_bookmark">حذف الإشارة المرجعية</string>
+  <string name="this_bookmark">هل أنت متأكد من هذه الإشارة المرجعية؟</string>
+  <string name="all_data_delete_from_bookmark">هل أنت متأكد من حذف كافة البيانات من Bookmark؟</string>
+  <string name="delete_bookmark">حذف الإشارة المرجعية</string>
+  <string name="this_bookmark_delete">هل أنت متأكد من حذف هذه الإشارة المرجعية؟</string>
+  <string name="close_all_window_2">هل أنت متأكد من إغلاق كل النوافذ؟</string>
+  <string name="close_this_window_2">هل أنت متأكد أنك تريد إغلاق هذه النافذة؟</string>
+  <string name="all_data_delete_from_history">هل أنت متأكد من حذف جميع البيانات من التاريخ؟</string>
+  <string name="delete_this_data_from_history">هل أنت متأكد من حذف هذه البيانات من التاريخ؟</string>
+  <string name="delete_this_item">هل تريد حذف هذا العنصر من القائمة؟</string>
+  <string name="this_bookmark_2">هل أنت متأكد من هذه الإشارة المرجعية؟</string>
+  <string name="change_language">تغيير اللغة</string>
+  <string name="screen4_content_0_1">بموجب القانون المعمول به داخل أو خارج بلد إقامتك ، والإجراءات القانونية ، وطلبات التقاضي.</string>
+  <string name="your_prior_permission">إذنك المسبق.</string>
+  <string name="screen_4_content_1_3">نحن نتخذ الاحتياطات - بما في ذلك التدابير الإدارية والفنية والمادية - لحماية معلوماتك الشخصية من الضياع والسرقة وسوء الاستخدام ، وكذلك ضد الوصول غير المصرح به والكشف والتعديل والتدمير. عندما تستخدم بعض المنتجات أو الخدمات أو تنشر تعليقاتك ، فإن المعلومات الشخصية التي تشاركها تكون مرئية للمستخدمين الآخرين ويمكن قراءتها أو جمعها أو استخدامها من قبلهم. أنت مسؤول عن المعلومات الشخصية التي تختار إرسالها في هذه الحالات. يرجى توخي الحذر عند استخدام هذه الميزات. للتأكد من أن معلوماتك الشخصية آمنة ؛ ننقل إرشادات الخصوصية والأمان الخاصة بنا إلى جميع الأعضاء ونفرض بصرامة إجراءات حماية الخصوصية داخل الفريق.</string>
+  <string name="by_requests_from_public_and_governmental_authorities">بناء على طلبات الجهات الحكومية والعامة.</string>
+  <string name="to_protect_our_legal_rights_and_interests">لحماية حقوقنا ومصالحنا القانونية.</string>
+  <string name="screen_4_content_1_4">نحن لا نجمع المعلومات الشخصية من الأطفال أو نستخدمها أو نكشف عنها. إذا كان عمرك أقل من 13 عامًا ، فيمكنك استخدام موقعنا على الويب عندما تكون مع أحد الوالدين أو الوصي. نحن لا نقدم خدمة تركز على الأطفال.</string>
+  <string name="screen_4_content_1_2">نحن لا نجمع أو نجمع أي معلومات شخصية أثناء زيارة أي تطبيق أو تنزيله أو ترقيته ، أو معلوماتك الشخصية مثل الاسم الأول واسم العائلة والعناوين الفعلية وأرقام الهواتف وأرقام الفاكس والمعلومات المخزنة في جهازك. لن نقوم بجمع أو تخزين معلوماتك الشخصية ولن نستخدم معلوماتك الشخصية أو ننقلها أو نكشف عنها ، باستثناء المعلومات الشخصية التي ترسلها إلينا عند إنشاء حساب مستخدم أو إرسال تقرير خطأ أو المشاركة في الاستطلاعات عبر الإنترنت والأنشطة الأخرى . في الظروف التالية ، قد نكشف عن معلوماتك الشخصية وفقًا لرغبتك أو لوائحك بموجب القانون.</string>
+</resources>

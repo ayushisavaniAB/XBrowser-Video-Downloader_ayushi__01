@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.circularreveal.CircularRevealRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_back_gradient">
+
+    <com.google.android.material.circularreveal.CircularRevealRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/app_back_gradient">
+
+        <com.google.android.material.circularreveal.CircularRevealRelativeLayout
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_40sdp">
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/navigation"
+                android:layout_width="@dimen/_25sdp"
+                android:layout_height="@dimen/_25sdp"
+                android:layout_alignParentStart="true"
+                android:layout_centerInParent="true"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:src="@drawable/ic_left_arrow_disable"
+                android:visibility="visible"
+                app:tint="@color/white" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_toEndOf="@+id/navigation"
+                android:gravity="center|start"
+                android:paddingStart="@dimen/_15sdp"
+                android:fontFamily="@font/app_font"
+                android:text="@string/progress"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_15sdp"
+                android:textStyle="bold" />
+
+        </com.google.android.material.circularreveal.CircularRevealRelativeLayout>
+
+        <com.google.android.material.circularreveal.CircularRevealRelativeLayout
+            android:id="@+id/top_menu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/download_process">
+
+            <com.google.android.material.circularreveal.CircularRevealRelativeLayout
+                android:id="@+id/ad_native"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_200sdp" />
+
+        </com.google.android.material.circularreveal.CircularRevealRelativeLayout>
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/download_process"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_100sdp"
+            android:layout_below="@+id/toolbar"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_marginEnd="@dimen/_10sdp"
+            android:layout_marginBottom="@dimen/_10sdp"
+            app:cardBackgroundColor="#5922E0"
+            app:cardCornerRadius="@dimen/_10sdp"
+            app:cardUseCompatPadding="true">
+
+            <com.google.android.material.circularreveal.CircularRevealRelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="@dimen/_7sdp">
+
+                <com.google.android.material.circularreveal.CircularRevealRelativeLayout
+                    android:id="@+id/top_relative"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_25sdp">
+
+                    <com.google.android.material.imageview.ShapeableImageView
+                        android:id="@+id/image"
+                        android:layout_width="@dimen/_25sdp"
+                        android:layout_height="@dimen/_25sdp"
+                        android:src="@mipmap/ic_launcher" />
+
+                    <com.google.android.material.textview.MaterialTextView
+                        android:id="@+id/fileName"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_centerInParent="true"
+                        android:layout_toRightOf="@+id/image"
+                        android:fontFamily="@font/app_font"
+                        android:gravity="center|start"
+                        android:paddingHorizontal="@dimen/_10sdp"
+                        android:singleLine="true"
+                        android:text="@string/app_name"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/_13sdp" />
+
+                </com.google.android.material.circularreveal.CircularRevealRelativeLayout>
+
+                <com.google.android.material.circularreveal.CircularRevealRelativeLayout
+                    android:id="@+id/relative"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/top_relative"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:layout_marginBottom="@dimen/_5sdp">
+
+                    <ProgressBar
+                        android:id="@+id/linearProgress"
+                        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:indeterminate="true"
+                        android:indeterminateTint="@color/backColor"
+                        android:visibility="gone" />
+
+                    <SeekBar
+                        android:id="@+id/seek_bar"
+                        style="@style/CustomSeekBarSong"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:progress="10"
+                        android:progressDrawable="@drawable/seekbar_progress_style"
+                        android:splitTrack="false"
+                        android:thumb="@null"
+                        android:visibility="gone" />
+
+                </com.google.android.material.circularreveal.CircularRevealRelativeLayout>
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:id="@+id/progress_Text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/relative"
+                    android:layout_marginHorizontal="@dimen/_10sdp"
+                    android:layout_marginTop="@dimen/_5sdp"
+                    android:fontFamily="@font/app_font"
+                    android:text="@string/_1_08_mb_1_80_mb_60"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_13sdp"
+                    android:textStyle="bold" />
+
+            </com.google.android.material.circularreveal.CircularRevealRelativeLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+        <com.google.android.material.circularreveal.CircularRevealRelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/how_Use"
+            android:layout_below="@+id/top_menu">
+
+            <com.google.android.material.circularreveal.CircularRevealRelativeLayout
+                android:id="@+id/no_history"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/_170sdp"
+                android:layout_centerInParent="true"
+                android:visibility="gone">
+
+                <com.google.android.material.imageview.ShapeableImageView
+                    android:id="@+id/lottie_anim"
+                    android:layout_width="@dimen/_150sdp"
+                    android:layout_height="@dimen/_150sdp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/no_data_image" />
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/app_font"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:text="@string/no_history"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="@dimen/_15sdp" />
+
+            </com.google.android.material.circularreveal.CircularRevealRelativeLayout>
+
+        </com.google.android.material.circularreveal.CircularRevealRelativeLayout>
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/how_Use"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_55sdp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginHorizontal="@dimen/_40sdp"
+            android:layout_marginBottom="@dimen/_80sdp"
+            app:cardBackgroundColor="@color/darkBlue"
+            app:cardCornerRadius="@dimen/_20sdp"
+            app:cardUseCompatPadding="true">
+
+            <com.google.android.material.circularreveal.CircularRevealRelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/bg_make_grediuent"
+                android:gravity="center">
+
+                <com.google.android.material.imageview.ShapeableImageView
+                    android:id="@+id/info_image"
+                    android:layout_width="@dimen/_24sdp"
+                    android:layout_height="@dimen/_24sdp"
+                    android:padding="@dimen/_2sdp"
+                    android:src="@drawable/how_use_image"
+                    android:tint="@color/white" />
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/_24sdp"
+                    android:layout_marginStart="@dimen/_10sdp"
+                    android:fontFamily="@font/app_font"
+                    android:layout_toEndOf="@+id/info_image"
+                    android:gravity="center"
+                    android:text="@string/how_to_download"
+                    android:textAllCaps="true"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_14sdp"
+                    android:textStyle="bold" />
+
+            </com.google.android.material.circularreveal.CircularRevealRelativeLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+    </com.google.android.material.circularreveal.CircularRevealRelativeLayout>
+
+</com.google.android.material.circularreveal.CircularRevealRelativeLayout>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    app:cardBackgroundColor="@color/backColor"
+    app:cardCornerRadius="@dimen/_10sdp"
+    app:cardElevation="2dp"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/titleText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/header_layout"
+            android:fontFamily="@font/app_font"
+            android:gravity="center"
+            android:padding="@dimen/_10sdp"
+            android:text="@string/delete_title"
+            android:textColor="@color/colorWhite"
+            android:textSize="@dimen/_16sdp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/msgText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_12sdp"
+            android:fontFamily="@font/app_font"
+            android:gravity="center"
+            android:padding="@dimen/_12sdp"
+            android:selectAllOnFocus="true"
+            android:text="@string/delete_video_msg"
+            android:textColor="@color/colorWhite"
+            android:textSize="@dimen/_14sdp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal"
+            android:paddingHorizontal="@dimen/_10sdp"
+            android:paddingVertical="@dimen/_5sdp">
+
+            <TextView
+                android:id="@+id/noButton"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_gravity="center"
+                android:layout_margin="@dimen/_8sdp"
+                android:layout_weight="1"
+                android:background="@drawable/bg_make_grediuent"
+                android:fontFamily="@font/app_font"
+                android:gravity="center"
+                android:padding="@dimen/_10sdp"
+                android:text="@string/no_btn"
+                android:textColor="@color/colorWhite"
+                android:textSize="@dimen/_16sdp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/yesButton"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_margin="@dimen/_8sdp"
+                android:layout_weight="1"
+                android:background="@drawable/bg_make_grediuent"
+                android:fontFamily="@font/app_font"
+                android:gravity="center"
+                android:padding="@dimen/_10sdp"
+                android:text="@string/yes_btn"
+                android:textColor="@color/colorWhite"
+                android:textSize="@dimen/_16sdp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="app_name">Browser Video Downloader</string>
+  <string name="home">Дом</string>
+  <string name="progress">Прогресс</string>
+  <string name="save">Законченный</string>
+  <string name="hello_blank_fragment">Привет пустой фрагмент</string>
+  <string name="hint_for_download">Введите URL или поиск</string>
+  <string name="bookmark_text">Закладка</string>
+  <string name="add_bookmark_title_label">Заголовок :</string>
+  <string name="add_bookmark_url_label">URL:</string>
+  <string name="add_playlist_hint">Введите имя</string>
+  <string name="add_bookmark_url_hint">Введите URL</string>
+  <string name="ok_btn">Ok</string>
+  <string name="yes_btn">Да</string>
+  <string name="no_btn">Нет</string>
+  <string name="delete_title">Удалить</string>
+  <string name="confirm_cancel">Отмена</string>
+  <string name="empty_edit_toast">Имя не может быть пустым.</string>
+  <string name="empty_edit_url_toast">URL не может быть пустым.</string>
+  <string name="delete_video_msg">Вы уверены, что хотите удалить это видео?</string>
+  <string name="adFiltersLastUpdated">Рекламные фильтрыLasUpdated</string>
+  <string name="easyListLastModified">EasyListLastModified</string>
+  <string name="no_data_text">Нет данных</string>
+  <string name="autoVideoDetect">Автовидеодетект</string>
+  <string name="menu_new_tab">Новая вкладка</string>
+  <string name="menu_bookmark">Закладки</string>
+  <string name="menu_history">История</string>
+  <string name="menu_download">Загрузки</string>
+  <string name="get_videos">Получить видео</string>
+<!--  <string-array name="videourl_filters"> -->
+<!--    <item>Mp4</item>  -->
+<!--    <item>Видео</item>  -->
+<!--    <item>Googleusercontent</item>  -->
+<!--    <item>Вставлять</item> -->
+<!--  </string-array>-->
+  <string name="adBlockON">Блокировка рекламы</string>
+  <string name="open_window_title">Открытое окно</string>
+  <string name="download_text">Скачать</string>
+  <string name="download_not_found_text">Загрузка не найдена</string>
+<!--  <string name="app_name_text">Загрузчик видео</string>-->
+  <string name="video_deleted_toast">Видео успешно удалено.</string>
+  <string name="action_play_background">Фоновое аудио</string>
+  <string name="action_share">Делиться</string>
+  <string name="menu_rename">Переименовать</string>
+  <string name="properties">Характеристики</string>
+  <string name="confirm_delete">Удалить</string>
+  <string name="now_playing">Сейчас играет</string>
+  <string name="menu">Меню</string>
+  <string name="action_info">Информация</string>
+  <string name="video_detail_title">Детали видео</string>
+  <string name="file_name_text">Имя файла :</string>
+  <string name="file_location_text">Расположение :</string>
+  <string name="format_text">Формат :</string>
+  <string name="file_size_text">Размер :</string>
+  <string name="duration_text">Продолжительность :</string>
+  <string name="resolution_text">Разрешение :</string>
+  <string name="date_text">Дата изменения:</string>
+  <string name="same_name_toast">Имя уже существует</string>
+  <string name="rename_toast">Переименовать успешно</string>
+  <string name="confirm">Вы уверены, что хотите удалить</string>
+  <string name="not_exist_toast">Путь к файлу не существует.</string>
+  <string name="history_text">История</string>
+  <string name="rename_text">Переименовать</string>
+  <string name="delete">Удалить</string>
+  <string name="txt_continue">Продолжать</string>
+  <string name="last_text">Пожалуйста, получите РАЗРЕШЕНИЕ от владельца, прежде чем размещать видео или фотографии;</string>
+  <string name="second_text">Любые несанкционированные действия (повторная загрузка или загрузка содержимого) и/или нарушения прав интеллектуальной собственности являются исключительной ответственностью пользователя.</string>
+  <string name="all_download">Все HD видео</string>
+  <string name="download">Даунлаод</string>
+  <string name="facebook">Фейсбук</string>
+  <string name="instagram">Инстаграм</string>
+  <string name="twitter">Твиттер</string>
+  <string name="myspace">Мое пространство</string>
+  <string name="tudidy">Тудиди</string>
+  <string name="ted">ТЕД</string>
+  <string name="vk">ВК</string>
+  <string name="videoHub">Видеохаб</string>
+  <string name="screen_one">Бесплатный безлимитный VPN поднимет вашу свободу и безопасность в Интернете на новый уровень.</string>
+  <string name="downloader">ВИДЕО СКАЧАТЬ</string>
+  <string name="videoPlayer">Видео-плеер</string>
+  <string name="screen_two">Загрузка видео через мобильные сети Wi-Fi, 2G, 3G и 4G</string>
+  <string name="language">Изменение языка</string>
+  <string name="screen_three">Скачать видео, музыку и картинки в фоновом режиме</string>
+  <string name="history">Показать историю</string>
+  <string name="screen_four">«Измените и настройте свою любимую поисковую систему.</string>
+  <string name="collection">Собрать коллекцию</string>
+  <string name="screen_five">Добавляйте закладки для любимых веб-сайтов. Поддерживается загрузка больших файлов.</string>
+  <string name="storage_permission_required_toast">Разрешить доступ к хранилищу!</string>
+  <string name="privacy_policy_text">Политика конфиденциальности</string>
+  <string name="txt_policy1">Настоящая Политика конфиденциальности Подробно объясните, какие сведения мы собрали, где мы их используем, как обеспечить безопасность. \n Мы предоставляем полную информацию о том, какие данные мы собираем, когда пользователь устанавливает какое-либо приложение. \n Пожалуйста, найдите время, чтобы ознакомиться с нашими методами обеспечения конфиденциальности, и сообщите нам, если у вас возникнут какие-либо вопросы.</string>
+  <string name="txt_policy2">
+    <b>Personal Information</b>
+  </string>
+  <string name="txt_policy3">Мы НЕ собираем и не собираем какую-либо личную информацию, когда вы посещаете, загружаете или обновляете какое-либо приложение, вашу личную информацию, такую ​​как ваше имя и фамилия, физические адреса, номера телефонов, номера факсов и информацию, хранящуюся на вашем устройстве. Мы не будем собирать или хранить вашу личную информацию, и мы не будем использовать, передавать или раскрывать вашу личную информацию, за исключением личной информации, которую вы предоставляете нам при создании учетной записи пользователя, отправке отчета об ошибке или участии в онлайн-опросах и других действиях. . В следующих случаях мы можем раскрыть вашу личную информацию в соответствии с вашим желанием или положениями закона:</string>
+  <string name="txt_policy4">1. Ваше предварительное разрешение. \n 2. В соответствии с применимым законодательством в стране вашего проживания или за ее пределами, судебным процессом, судебными запросами. \n 3. По запросам государственных и государственных органов. \n 4. Для защиты наших законных прав и интересов.</string>
+  <string name="txt_policy5">
+    <b>Permission in this Application:</b>
+  </string>
+  <string name="txt_policy6">
+    <b>INTERNET :</b>Это разрешение используется для проверки подключения к Интернету.
+  </string>
+  <string name="txt_policy7">
+    <b>ACCESS_NETWORK_STATE :</b>Это разрешение используется в настройках и панели уведомлений для просмотра сетевых подключений.
+  </string>
+  <string name="txt_policy8">
+    <b>CHANGE_NETWORK_STATE :</b>Это разрешение позволяет приложениям изменять состояние подключения к сети.
+  </string>
+  <string name="txt_policy9">
+    <b>ACCESS_WIFI_STATE :</b>Это разрешение используется в настройках и панели уведомлений для подключения и отключения от Wi-Fi.
+  </string>
+  <string name="txt_policy10">
+    <b>CHANGE_WIFI_STATE :</b>Это разрешение позволяет приложениям изменять состояние подключения к Wi-Fi.
+  </string>
+  <string name="txt_policy11">
+    <b>READ_EXTERNAL_STORAGE :</b>Это разрешение используется для чтения или просмотра данных, доступных на SD-карте.
+  </string>
+  <string name="txt_policy12">
+    <b>WRITE_EXTERNAL_STORAGE :</b>Это разрешение используется для изменения изображения с SD-карты.
+  </string>
+  <string name="txt_policy13">
+    <b>RECORD_AUDIO :</b>Это разрешение используется для отображения музыкального спектра.
+  </string>
+  <string name="txt_policy14">
+    <b>WAKE_LOCK :</b>Это разрешение позволяет использовать PowerManager WakeLocks для предотвращения перехода процессора в спящий режим или затемнения экрана.
+  </string>
+  <string name="txt_policy15">
+    <b>FOREGROUND_SERVICE :</b>Это разрешение используется, чтобы позволить обычному приложению использовать Service.startForeground.
+  </string>
+  <string name="txt_policy16">
+    <b>MODIFY_AUDIO_SETTINGS :</b>Это разрешение позволяет приложению изменять глобальные настройки звука.
+  </string>
+  <string name="txt_policy17">
+    <b>SYSTEM_ALERT_WINDOW :</b>Это разрешение позволяет приложению создавать окна с использованием типа WindowManager.LayoutParams.TYPE_APPLICATION_OVERLAY, отображаемого поверх всех других приложений.
+  </string>
+  <string name="txt_policy18">
+    <b>VIBRATE :</b>Это разрешение используется для доступа к вибратору.
+  </string>
+  <string name="txt_policy19">
+    <b>WRITE_SETTINGS :</b>Это разрешение позволяет приложению читать или записывать системные настройки.
+  </string>
+  <string name="txt_policy20">
+    <b>MEDIA_CONTENT_CONTROL :</b>Это разрешение позволяет приложению знать, какой контент воспроизводится, и управлять его воспроизведением.
+  </string>
+  <string name="txt_policy21">
+    <b>PROTECTION YOUR PERSONAL INFORMATION</b>
+  </string>
+  <string name="txt_policy22">Мы принимаем меры предосторожности, включая административные, технические и физические меры, для защиты вашей личной информации от потери, кражи и неправомерного использования, а также от несанкционированного доступа, раскрытия, изменения и уничтожения. \n Когда вы используете некоторые продукты, услуги или публикуете свои комментарии, личная информация, которой вы делитесь, видна другим пользователям и может быть прочитана, собрана или использована ими. \n Вы несете ответственность за личную информацию, которую вы решили предоставить в этих случаях. \n Будьте осторожны при использовании этих функций. \n Чтобы убедиться, что ваша личная информация в безопасности; мы сообщаем о наших правилах конфиденциальности и безопасности всем участникам и строго следим за соблюдением мер безопасности внутри команды.</string>
+  <string name="txt_policy23">
+    <b>Third Parties Sites</b>
+  </string>
+  <string name="txt_policy24">Мы используем Google Admob SDK для рекламы в наших приложениях. \n Помните, что в программировании могут быть ошибки, а иногда ошибки в программировании могут вызывать нежелательные побочные эффекты. Размещайте рекламу других компаний.</string>
+  <string name="txt_policy25">
+    <b>Children</b>
+  </string>
+  <string name="txt_policy26">Мы не собираем, не используем и не раскрываем личную информацию детей. \n Если вам еще не исполнилось 13 лет, вы можете пользоваться нашим веб-сайтом в сопровождении родителя или опекуна. \n Мы не предоставляем услуги, ориентированные на детей.</string>
+  <string name="txt_policy27">
+    <b>Update Privacy Policy</b>
+  </string>
+  <string name="txt_policy28">Наша политика конфиденциальности может время от времени меняться, мы будем публиковать любые изменения политики конфиденциальности на этой странице, поэтому периодически просматривайте ее.</string>
+  <string name="txt_policy29">
+    <b>Contacting Us</b>
+  </string>
+  <string name="txt_policy30">Если у вас есть какие-либо вопросы или опасения по поводу нашей Политики конфиденциальности или обработки данных, свяжитесь с нами по электронной почте разработчика.</string>
+  <string name="tiktok">ТИК Так</string>
+  <string name="daily">Ежедневное движение</string>
+  <string name="videoPlayer1">Видео-плеер</string>
+  <string name="add_playlist_text">Добавить в плейлист</string>
+  <string name="action_play_popup">Воспроизвести всплывающее окно</string>
+  <string name="add_favorite_text">Добавить в избранное</string>
+  <string name="remove_from_playlist_text">Удалить из плейлиста</string>
+  <string name="remove_favourite_text">Удалить избранное</string>
+  <string name="video_remove_favorite_toast">Видео удалить в избранное.</string>
+  <string name="video_add_favorite_toast">Видео добавлено в избранное.</string>
+  <string name="new_playlist_text">Новый плейлист</string>
+  <string name="video_added_toast">Видео добавлено в плейлист</string>
+  <string name="add_playlist_title">Создать новый плейлист</string>
+  <string name="create_btn">Создавать</string>
+  <string name="video_not_found_text">Видео не найдено</string>
+  <string name="search_title">Поиск видео</string>
+  <string name="downloader1">Загрузчик видео</string>
+  <string name="privacy">Политика конфиденциальности</string>
+  <string name="share">Делиться</string>
+  <string name="back">Назад</string>
+  <string name="next">Следующий</string>
+  <string name="folder">Папка</string>
+  <string name="setting">Настройки</string>
+  <string name="browser">Браузерный загрузчик видео</string>
+  <string name="welcome_main_text">Преимущества безопасного браузера</string>
+  <string name="browser_text">Загрузчик XBrowser</string>
+  <string name="clear">Очистить историю браузера</string>
+  <string name="history1">История</string>
+  <string name="about">О</string>
+  <string name="downloads">Скачать</string>
+  <string name="browsers">Браузер</string>
+  <string name="location">Место загрузки</string>
+  <string name="rate">Оценивать</string>
+  <string name="connecting">Подключение к серверу..</string>
+  <string name="no_history">Нет истории</string>
+  <string name="how_to_download">Как загрузить</string>
+  <string name="skip">Пропускать</string>
+  <string name="got_it">Понятно</string>
+  <string name="screen_1_content">Бесплатный безлимитный VPN \n , чтобы вывести вашу \n \n свободу и безопасность в Интернете на новый уровень.</string>
+  <string name="start">Начинать</string>
+  <string name="choose">Выбирать</string>
+  <string name="your_language">Твой язык</string>
+  <string name="apply">Подать заявление</string>
+  <string name="all_language">Весь язык</string>
+  <string name="ads_preference">Рекламные предпочтения</string>
+  <string name="screen_3_content_1">На вашей странице рекламных предпочтений вы также можете увидеть, как мы используем данные для показа рекламы, которая, по нашему мнению, будет наиболее интересной для вас, и настроить, как эти данные могут использоваться для показа вам рекламы. В настройках рекламы вы можете:</string>
+  <string name="screen_3_content_2">Просмотрите распространенные вопросы о том, как данные используются для показа рекламы в этом браузере.</string>
+  <string name="screen_3_content_3">Выберите, можем ли мы показывать вам персонализированную рекламу на основе вашей активности на других веб-сайтах, в приложениях или в автономном режиме.</string>
+  <string name="screen_3_content_4">Просмотрите рекламодателей, которые могут показывать свои объявления определенным аудиториям, в которые вы включены, на основе вашей активности или информации, и решите, можно ли использовать эти аудитории для показа вам рекламы.</string>
+  <string name="low">Низкий</string>
+  <string name="medium">Середина</string>
+  <string name="high">Высокая</string>
+  <string name="terms_and_condition">Сроки и условия</string>
+  <string name="screen_4_content_1">Настоящая Политика конфиденциальности Подробно объясните, какие сведения мы собрали, где мы их используем, как обеспечить безопасность. Мы предоставляем полную информацию о том, какие данные мы собираем, когда пользователь устанавливает какое-либо приложение. Пожалуйста, найдите минутку, чтобы ознакомиться с нашими правилами конфиденциальности и сообщите нам, если у вас есть какие-либо вопросы.</string>
+  <string name="screen_4_content_2">Мы НЕ собираем и не собираем какую-либо личную информацию, когда вы посещаете, загружаете или обновляете какое-либо приложение, вашу личную информацию, такую ​​как ваше имя и фамилия, физические адреса, номера телефонов, номера факсов и информацию, хранящуюся на вашем устройстве. Мы не будем собирать или хранить вашу личную информацию, и мы не будем использовать, передавать или раскрывать вашу личную информацию, за исключением личной информации, которую вы предоставляете нам при создании учетной записи пользователя, отправке отчета об ошибке или участии в онлайн-опросах и других действиях. . В следующих случаях мы можем раскрыть вашу личную информацию в соответствии с вашим желанием или положениями закона:</string>
+  <string name="i_agree_with_terms_amp_condition">Я согласен с Условиями использования</string>
+  <string name="accept">Принимать</string>
+  <string name="privacy_policy">Политика конфиденциальности</string>
+  <string name="screen_5_content_1">Настоящая Политика конфиденциальности Подробно объясните, какие сведения мы собрали, где мы их используем, как обеспечить безопасность. Мы предоставляем полную информацию о том, какие данные мы собираем, когда пользователь устанавливает какое-либо приложение. Пожалуйста, найдите минутку, чтобы ознакомиться с нашими правилами конфиденциальности и сообщите нам, если у вас есть какие-либо вопросы.</string>
+  <string name="personal_information">Персональные данные</string>
+  <string name="screen_5_content_2">Мы НЕ собираем и не собираем какую-либо личную информацию, когда вы посещаете, загружаете или обновляете какое-либо приложение, вашу личную информацию, такую ​​как ваше имя и фамилия, физические адреса, номера телефонов, номера факсов и информацию, хранящуюся на вашем устройстве. Мы не будем собирать или хранить вашу личную информацию, и мы не будем использовать, передавать или раскрывать вашу личную информацию, за исключением личной информации, которую вы предоставляете нам при создании учетной записи пользователя, отправке отчета об ошибке или участии в онлайн-опросах и других действиях. . В следующих случаях мы можем раскрыть вашу личную информацию в соответствии с вашим желанием или положениями закона:</string>
+  <string name="done">Сделанный</string>
+  <string name="safe_browser_benefits">Преимущества безопасного браузера</string>
+  <string name="maintain_anonymity_to_avoid_monitoring_amp_tracking">Сохраняйте анонимность, чтобы избежать мониторинга и отслеживания</string>
+  <string name="unlimited_speed_amp_traffic">Неограниченная скорость и трафик</string>
+  <string name="access_blocked_websites">Доступ к заблокированным веб-сайтам</string>
+  <string name="access_web_at_high_speed">Доступ в Интернет на высокой скорости</string>
+  <string name="hide_your_search_history">Скрыть историю поиска</string>
+  <string name="bypass_geo_blocks_to_play_videos_amp_audios">Обход геоблоков для воспроизведения видео и аудио</string>
+  <string name="keep_personal_data_safe_amp_secure">Храните личные данные в безопасности</string>
+  <string name="safe_browser">Безопасный браузер</string>
+  <string name="normal_browser">Обычный браузер</string>
+  <string name="abc">Азбука</string>
+  <string name="add_bookmark">Добавить закладку</string>
+  <string name="video_list">Список видео</string>
+  <string name="google">Google</string>
+  <string name="_1_08_mb_1_80_mb_60">1,08 МБ /1,80 МБ 60%</string>
+  <string name="finished">Законченный</string>
+  <string name="_1">1</string>
+  <string name="disclaimer">Отказ от ответственности</string>
+  <string name="add">Добавлять</string>
+  <string name="all_history_delete">Вы уверены, что хотите удалить все данные из истории?</string>
+  <string name="all_window_close">Вы уверены, что хотите закрыть это окно «Все»?</string>
+  <string name="alert">Тревога</string>
+  <string name="close_this_window">Вы уверены, что хотите закрыть это окно?</string>
+  <string name="Delete_bookmark">Удалить закладку</string>
+  <string name="this_bookmark">Вы уверены, что хотите сделать эту закладку?</string>
+  <string name="all_data_delete_from_bookmark">Вы уверены, что хотите удалить все данные из закладок?</string>
+  <string name="delete_bookmark">Удалить закладку</string>
+  <string name="this_bookmark_delete">Вы уверены, что хотите удалить эту закладку?</string>
+  <string name="close_all_window_2">Вы уверены, что хотите закрыть все окно?</string>
+  <string name="close_this_window_2">Вы уверены, что хотите закрыть это окно?</string>
+  <string name="all_data_delete_from_history">Вы уверены, что хотите удалить все данные из истории?</string>
+  <string name="delete_this_data_from_history">Вы уверены, что хотите удалить эти данные из истории?</string>
+  <string name="delete_this_item">Удалить этот элемент из списка?</string>
+  <string name="this_bookmark_2">Вы уверены, что хотите сделать эту закладку?</string>
+  <string name="change_language">Изменить язык</string>
+  <string name="screen_4_content_1_3">Мы принимаем меры предосторожности, включая административные, технические и физические меры, для защиты вашей личной информации от потери, кражи и неправомерного использования, а также от несанкционированного доступа, раскрытия, изменения и уничтожения. Когда вы используете некоторые продукты, услуги или публикуете свои комментарии, личная информация, которой вы делитесь, видна другим пользователям и может быть прочитана, собрана или использована ими. Вы несете ответственность за личную информацию, которую вы решили предоставить в этих случаях. Пожалуйста, будьте осторожны при использовании этих функций. Чтобы убедиться, что ваша личная информация в безопасности; мы сообщаем о наших правилах конфиденциальности и безопасности всем участникам и строго следим за соблюдением мер безопасности внутри команды.</string>
+  <string name="screen4_content_0_1">В соответствии с применимым законодательством в стране вашего проживания или за ее пределами, судебным процессом, судебными запросами.</string>
+  <string name="your_prior_permission">Ваше предварительное разрешение.</string>
+  <string name="screen_4_content_1_4">Мы не собираем, не используем и не раскрываем личную информацию детей. Если вам еще не исполнилось 13 лет, вы можете пользоваться нашим веб-сайтом, когда вы находитесь с родителем или опекуном. Мы не предоставляем услуги, ориентированные на детей.</string>
+  <string name="by_requests_from_public_and_governmental_authorities">По запросам государственных и государственных органов.</string>
+  <string name="to_protect_our_legal_rights_and_interests">Для защиты наших законных прав и интересов.</string>
+  <string name="screen_4_content_1_2">Мы НЕ собираем и не собираем какую-либо личную информацию, когда вы посещаете, загружаете или обновляете какое-либо приложение, вашу личную информацию, такую ​​как ваше имя и фамилия, физические адреса, номера телефонов, номера факсов и информацию, хранящуюся на вашем устройстве. Мы не будем собирать или хранить вашу личную информацию, и мы не будем использовать, передавать или раскрывать вашу личную информацию, за исключением личной информации, которую вы предоставляете нам при создании учетной записи пользователя, отправке отчета об ошибке или участии в онлайн-опросах и других действиях. . В следующих обстоятельствах мы можем раскрыть вашу личную информацию в соответствии с вашим желанием или положениями закона.</string>
+</resources>
